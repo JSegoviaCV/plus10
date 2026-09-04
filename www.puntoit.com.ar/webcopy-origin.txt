@@ -1,0 +1,792 @@
+Uri: https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\7.120.3\modulemetadata.es5.min.js
+Content Type: application/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldIgnoreWidgetsPageData%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5507.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=78ffc919.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_16389709d6d01603620d5eab2739ef42_700.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-10
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldIgnoreWidgetsPageData%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5507.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=78ffc919.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_5100471886c91b51d5a1dee6e6afc2ef_722.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-9
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldIgnoreWidgetsPageData%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5507.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=78ffc919.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_5100471886c91b51d5a1dee6e6afc2ef_722.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-3
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldIgnoreWidgetsPageData%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5507.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=78ffc919.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_f91e363ed665ac299899d3f9b8e5245e_724.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-4
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldIgnoreWidgetsPageData%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5593.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=b4c13d32.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_5100471886c91b51d5a1dee6e6afc2ef_722.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15474.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15474.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-6
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldIgnoreWidgetsPageData%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5593.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=b4c13d32.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_6edd4a8c2a8be0dfc16121bca5c1cdc4_725.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15474.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15474.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-7
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5593.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=91b6be7f.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_453f4209bf0d2e1382029ee054221b58_723.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15483.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15483.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5593.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=91b6be7f.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&languageResolutionMethod=QueryParam&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-features&originalLanguage=es&pageId=157569_5100471886c91b51d5a1dee6e6afc2ef_722.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15483.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15483.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.shouldIgnoreWidgetsPageData%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5507.0&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=40b290ec.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-platform&originalLanguage=es&pageId=157569_f91e363ed665ac299899d3f9b8e5245e_724.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-5
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.shouldIgnoreWidgetsPageData%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5507.0&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=40b290ec.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-platform&originalLanguage=es&pageId=157569_16389709d6d01603620d5eab2739ef42_700.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15471.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-11
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.shouldIgnoreWidgetsPageData%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5593.0&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=1ed47f97.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-platform&originalLanguage=es&pageId=157569_6edd4a8c2a8be0dfc16121bca5c1cdc4_725.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15474.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15474.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-8
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform&blocksBuilderManifestGeneratorVersion=1.129.0&contentType=application%2Fjson&dfCk=6&dfVersion=1.5593.0&editorName=Studio&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.puntoit.com.ar&fileId=8dd916f0.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isClientSdkOnSite=true&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=es&metaSiteId=2ba4b68e-2250-40f1-8735-f0b458eacddf&module=thunderbolt-platform&originalLanguage=es&pageId=157569_453f4209bf0d2e1382029ee054221b58_723.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15483.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15483.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=1733e6f9-8fb8-4efe-90b1-e7941e5e8752&siteRevision=725&staticHTMLComponentUrl=https:%2F%2Fwww-puntoit-com-ar.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://static.parastorage.com/fonts/v2/19247d19-0454-4de8-b907-b818135794bd/madefor-text.var.original.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\19247d19-0454-4de8-b907-b818135794bd\madefor-text.var.original.woff2
+Content Type: woff2
+
+Uri: https://static.parastorage.com/fonts/v2/19247d19-0454-4de8-b907-b818135794bd/v1/madefor-text.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\19247d19-0454-4de8-b907-b818135794bd\v1\madefor-text.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/26656ec7-c27d-4bdc-a9f4-6b498bbfad69/madefor-display.var.original.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\26656ec7-c27d-4bdc-a9f4-6b498bbfad69\madefor-display.var.original.woff2
+Content Type: woff2
+
+Uri: https://static.parastorage.com/fonts/v2/26656ec7-c27d-4bdc-a9f4-6b498bbfad69/v1/madefor-display.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\26656ec7-c27d-4bdc-a9f4-6b498bbfad69\v1\madefor-display.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.greek.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.greek.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.latin.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.math.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.other.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.greek.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.greek.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.latin.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.math.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.other.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w01_85-heavy1475544.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\74290729-59ae-4129-87d0-2eec3974dce1\v1\avenir-lt-w01_85-heavy1475544.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/74290729-59ae-4129-87d0-2eec3974dce1/v1/avenir-lt-w05_85-heavy.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\74290729-59ae-4129-87d0-2eec3974dce1\v1\avenir-lt-w05_85-heavy.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\7656dffe-e48a-4387-bcf9-cd96060a10ca\v1\helveticaneuew01-65medi.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.latin.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\7656dffe-e48a-4387-bcf9-cd96060a10ca\v1\helveticaneuew01-65medi.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.other.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\7656dffe-e48a-4387-bcf9-cd96060a10ca\v1\helveticaneuew01-65medi.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.latin.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.math.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.other.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w01_35-light1475496.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w01_35-light1475496.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/af36905f-3c92-4ef9-b0c1-f91432f16ac1/v1/avenir-lt-w05_35-light.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\af36905f-3c92-4ef9-b0c1-f91432f16ac1\v1\avenir-lt-w05_35-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.latin.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.math.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.other.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w01-reg.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\c24fcada-6239-48bc-8b88-9288338191c9\v1\proxima-n-w01-reg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/c24fcada-6239-48bc-8b88-9288338191c9/v1/proxima-n-w05-reg.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\c24fcada-6239-48bc-8b88-9288338191c9\v1\proxima-n-w05-reg.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\e333842f-0a84-43f9-9ab7-fb1093ba1628\v1\helveticaneuew01-45ligh.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\e333842f-0a84-43f9-9ab7-fb1093ba1628\v1\helveticaneuew01-45ligh.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.other.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\e333842f-0a84-43f9-9ab7-fb1093ba1628\v1\helveticaneuew01-45ligh.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w02-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w10-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/madefor-text.var.original.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\f73e760d-c6b3-4659-9a8c-9ce1d76c1173\madefor-text.var.original.woff2
+Content Type: woff2
+
+Uri: https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/v1/madefor-text.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\f73e760d-c6b3-4659-9a8c-9ce1d76c1173\v1\madefor-text.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/f7531dde-c39a-485c-a204-c09154e8d163/v1/madefor-display-bold.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\fonts\v2\f7531dde-c39a-485c-a204-c09154e8d163\v1\madefor-display-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/3931.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\3931.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/4660.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\4660.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/5796.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\5796.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/5830.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\5830.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/5995.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\5995.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/8174.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\8174.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/8509.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\8509.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/form-app-contacts-phone.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\form-app-contacts-phone.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/form-app-header.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\form-app-header.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/form-app-text-area.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\form-app-text-area.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/client-viewer/form-app-wix-ricos-viewer.chunk.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\client-viewer\form-app-wix-ricos-viewer.chunk.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/form-app/1.3001.0/FormViewerWidgetNoCss.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\form-app\1.3001.0\FormViewerWidgetNoCss.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/square/ARG.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\linguist-flags\1.1005.0\assets\flags\square\ARG.png
+Content Type: image/png
+
+Uri: https://static.parastorage.com/services/linguist-flags/1.1005.0/assets/flags/square/ARG_2x.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\linguist-flags\1.1005.0\assets\flags\square\ARG_2x.png
+Content Type: image/png
+
+Uri: https://static.parastorage.com/services/pro-gallery-tpa/1.1531.0/WixProGalleryViewerWidget.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\pro-gallery-tpa\1.1531.0\WixProGalleryViewerWidget.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.1075.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\tag-manager-client\1.1075.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\browser-deprecation.bundle.es5.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.1ac0aaa1.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\main.1ac0aaa1.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.cc56b4b4.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\main.cc56b4b4.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.99fa8096.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\main.renderer.99fa8096.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.14554211.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\thunderbolt-commons.14554211.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.32743098.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\thunderbolt-commons.32743098.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.e6b1a3a9.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\services\wix-thunderbolt\dist\thunderbolt-commons.e6b1a3a9.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefordisplay/v10/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CV7uAmddFNBDUA.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefordisplay\v10\SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CV7uAmddFNBDUA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefordisplay/v10/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAmddFNA.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefordisplay\v10\SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVHuAmddFNA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefordisplay/v10/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVXuAmddFNBDUA.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefordisplay\v10\SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVXuAmddFNBDUA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefordisplay/v10/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVzuAmddFNBDUA.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefordisplay\v10\SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CVzuAmddFNBDUA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefordisplay/v10/SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CV_uAmddFNBDUA.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefordisplay\v10\SZcl3EX9IbbyeJ8aOluD52KXgUA_7Ed1CV_uAmddFNBDUA.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh4SQbgD0C0fp2.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh4SQbgD0C0fp2.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh5SQbgD0C0Q.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh5SQbgD0C0Q.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6CQbgD0C0fp2.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6CQbgD0C0fp2.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6iQbgD0C0fp2.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6iQbgD0C0fp2.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6yQbgD0C0fp2.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_jXI_oSymQ8Qj-Apx3HGN_Hu1RZiAh6yQbgD0C0fp2.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiER5y4coj8y0A.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiER5y4coj8y0A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZigR5y4coj8y0A.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZigR5y4coj8y0A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZioR5y4coj8y0A.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZioR5y4coj8y0A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZisR5y4coj8y0A.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZisR5y4coj8y0A.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/tag-bundler/api/v1/fonts-cache/googlefont/woff2/s/wixmadefortext/v13/-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiUR5y4coj8.woff2
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\tag-bundler\api\v1\fonts-cache\googlefont\woff2\s\wixmadefortext\v13\-W_lXI_oSymQ8Qj-Apx3HGN_Hu1RZiUR5y4coj8.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.23/lodash.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\unpkg\lodash@4.17.23\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/157569_07a6e901bb404fec89f745aad8a4e974~mv2.png/v1/fill/w_160,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_07a6e901bb404fec89f745aad8a4e974~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_07a6e901bb404fec89f745aad8a4e974~mv2.png\v1\fill\w_160,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_07a6e901bb404fec89f745aad8a4e974~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_09d8d97deaf341098d8d50ec66398f8e~mv2.png/v1/fit/w_410,h_182,q_90,enc_avif,quality_auto/157569_09d8d97deaf341098d8d50ec66398f8e~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_09d8d97deaf341098d8d50ec66398f8e~mv2.png\v1\fit\w_410,h_182,q_90,enc_avif,quality_auto\157569_09d8d97deaf341098d8d50ec66398f8e~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_0e3e40be9a67410fbaf722137dbdbcc9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_116a4fc424ce47529f1b6f4113878b74~mv2.png/v1/fit/w_52,h_47,q_90,enc_avif,quality_auto/157569_116a4fc424ce47529f1b6f4113878b74~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_116a4fc424ce47529f1b6f4113878b74~mv2.png\v1\fit\w_52,h_47,q_90,enc_avif,quality_auto\157569_116a4fc424ce47529f1b6f4113878b74~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_1394dbd92127460cb0a60591bb7ea619~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_1394dbd92127460cb0a60591bb7ea619~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_1394dbd92127460cb0a60591bb7ea619~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_1394dbd92127460cb0a60591bb7ea619~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_1394dbd92127460cb0a60591bb7ea619~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_1394dbd92127460cb0a60591bb7ea619~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_1394dbd92127460cb0a60591bb7ea619~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_1394dbd92127460cb0a60591bb7ea619~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_21f7e8dfcf314c14a36aa2c466186dd6~mv2.png/v1/fit/w_416,h_170,q_90,enc_avif,quality_auto/157569_21f7e8dfcf314c14a36aa2c466186dd6~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_21f7e8dfcf314c14a36aa2c466186dd6~mv2.png\v1\fit\w_416,h_170,q_90,enc_avif,quality_auto\157569_21f7e8dfcf314c14a36aa2c466186dd6~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2792133905c744f5b3a424d52da5dedd~mv2.png/v1/fit/w_55,h_56,q_90,enc_avif,quality_auto/157569_2792133905c744f5b3a424d52da5dedd~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2792133905c744f5b3a424d52da5dedd~mv2.png\v1\fit\w_55,h_56,q_90,enc_avif,quality_auto\157569_2792133905c744f5b3a424d52da5dedd~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_28b11f66cd5e47d896f31ca4795d311f~mv2.png/v1/fill/w_160,h_45,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_28b11f66cd5e47d896f31ca4795d311f~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_28b11f66cd5e47d896f31ca4795d311f~mv2.png\v1\fill\w_160,h_45,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_28b11f66cd5e47d896f31ca4795d311f~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2bd85c0d66a845499702a073fac71344~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_2bd85c0d66a845499702a073fac71344~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2bd85c0d66a845499702a073fac71344~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_2bd85c0d66a845499702a073fac71344~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2bd85c0d66a845499702a073fac71344~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_2bd85c0d66a845499702a073fac71344~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2bd85c0d66a845499702a073fac71344~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_2bd85c0d66a845499702a073fac71344~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2bd85c0d66a845499702a073fac71344~mv2.png/v1/fit/w_858,h_620,q_90,enc_avif,quality_auto/157569_2bd85c0d66a845499702a073fac71344~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2bd85c0d66a845499702a073fac71344~mv2.png\v1\fit\w_858,h_620,q_90,enc_avif,quality_auto\157569_2bd85c0d66a845499702a073fac71344~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png/v1/fit/w_960,h_700,q_90,enc_avif,quality_auto/157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png\v1\fit\w_960,h_700,q_90,enc_avif,quality_auto\157569_2c5ab7d1ccf549599884e4fd9d764c2a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_2cd6708cf72a48aba94c9b3e8712156b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png/v1/fit/w_899,h_834,q_90,enc_avif,quality_auto/157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png\v1\fit\w_899,h_834,q_90,enc_avif,quality_auto\157569_2e78d0ce92964c2b9e31a1391d0869ed~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2f290959dfdc4ff98baae90fc456c75b~mv2.png/v1/fit/w_72,h_71,q_90,enc_avif,quality_auto/157569_2f290959dfdc4ff98baae90fc456c75b~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2f290959dfdc4ff98baae90fc456c75b~mv2.png\v1\fit\w_72,h_71,q_90,enc_avif,quality_auto\157569_2f290959dfdc4ff98baae90fc456c75b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_2f8d3d785a8a43bca4619731b6ed6cd0~mv2.png/v1/fill/w_160,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_2f8d3d785a8a43bca4619731b6ed6cd0~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_2f8d3d785a8a43bca4619731b6ed6cd0~mv2.png\v1\fill\w_160,h_51,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_2f8d3d785a8a43bca4619731b6ed6cd0~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_3596a577a68c48e9b04aad7e458debce~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_3596a577a68c48e9b04aad7e458debce~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_3596a577a68c48e9b04aad7e458debce~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_3596a577a68c48e9b04aad7e458debce~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_3596a577a68c48e9b04aad7e458debce~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_3596a577a68c48e9b04aad7e458debce~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_3596a577a68c48e9b04aad7e458debce~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_3596a577a68c48e9b04aad7e458debce~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_3596a577a68c48e9b04aad7e458debce~mv2.png/v1/fit/w_736,h_642,q_90,enc_avif,quality_auto/157569_3596a577a68c48e9b04aad7e458debce~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_3596a577a68c48e9b04aad7e458debce~mv2.png\v1\fit\w_736,h_642,q_90,enc_avif,quality_auto\157569_3596a577a68c48e9b04aad7e458debce~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_3fbfa6c6166d4aff9f1869f197662e20~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_3fbfa6c6166d4aff9f1869f197662e20~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_3fbfa6c6166d4aff9f1869f197662e20~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_3fbfa6c6166d4aff9f1869f197662e20~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_425cbd50124c42128d46306bec53819a~mv2.png/v1/fit/w_412,h_190,q_90,enc_avif,quality_auto/157569_425cbd50124c42128d46306bec53819a~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_425cbd50124c42128d46306bec53819a~mv2.png\v1\fit\w_412,h_190,q_90,enc_avif,quality_auto\157569_425cbd50124c42128d46306bec53819a~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_439e96f8bcdb4ed78e7ecd4ab87ea9f2~mv2.png/v1/fill/w_480,h_360,fp_0.41_0.06,q_90,enc_avif,quality_auto/157569_439e96f8bcdb4ed78e7ecd4ab87ea9f2~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_439e96f8bcdb4ed78e7ecd4ab87ea9f2~mv2.png\v1\fill\w_480,h_360,fp_0.41_0.06,q_90,enc_avif,quality_auto\157569_439e96f8bcdb4ed78e7ecd4ab87ea9f2~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_468949214ae740a196ddeb02439a85b1~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_468949214ae740a196ddeb02439a85b1~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_468949214ae740a196ddeb02439a85b1~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_468949214ae740a196ddeb02439a85b1~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_468949214ae740a196ddeb02439a85b1~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_468949214ae740a196ddeb02439a85b1~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_468949214ae740a196ddeb02439a85b1~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_468949214ae740a196ddeb02439a85b1~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_47f04af5878343498386993b45e0b300~mv2.jpg/v1/fill/w_147,h_124,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/desarrollo_puntoit_2026_web.jpg
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_47f04af5878343498386993b45e0b300~mv2.jpg\v1\fill\w_147,h_124,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\desarrollo_puntoit_2026_web.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/157569_4b55ae9e6877406eba8fc68c976a27b4~mv2.png/v1/fit/w_52,h_46,q_90,enc_avif,quality_auto/157569_4b55ae9e6877406eba8fc68c976a27b4~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_4b55ae9e6877406eba8fc68c976a27b4~mv2.png\v1\fit\w_52,h_46,q_90,enc_avif,quality_auto\157569_4b55ae9e6877406eba8fc68c976a27b4~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_503ad481228d453bbfa37ba8c70ae54c~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_5489b2f21c2041c1bfb7b5c91fa6acf4~mv2.png/v1/fill/w_160,h_64,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_5489b2f21c2041c1bfb7b5c91fa6acf4~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_5489b2f21c2041c1bfb7b5c91fa6acf4~mv2.png\v1\fill\w_160,h_64,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_5489b2f21c2041c1bfb7b5c91fa6acf4~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_581a9f8867744e6eb6ab39de39cabf01~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_581a9f8867744e6eb6ab39de39cabf01~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_581a9f8867744e6eb6ab39de39cabf01~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_581a9f8867744e6eb6ab39de39cabf01~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_585ae68c82e54357985288419ce4f887~mv2.png/v1/fit/w_390,h_192,q_90,enc_avif,quality_auto/157569_585ae68c82e54357985288419ce4f887~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_585ae68c82e54357985288419ce4f887~mv2.png\v1\fit\w_390,h_192,q_90,enc_avif,quality_auto\157569_585ae68c82e54357985288419ce4f887~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_59c2a0bfbaf14e15b315bb029b5f9a47~mv2.png/v1/fit/w_52,h_50,q_90,enc_avif,quality_auto/157569_59c2a0bfbaf14e15b315bb029b5f9a47~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_59c2a0bfbaf14e15b315bb029b5f9a47~mv2.png\v1\fit\w_52,h_50,q_90,enc_avif,quality_auto\157569_59c2a0bfbaf14e15b315bb029b5f9a47~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_5a35a82ecf514f31be99ec6cbf4fba23~mv2.png/v1/fit/w_55,h_53,q_90,enc_avif,quality_auto/157569_5a35a82ecf514f31be99ec6cbf4fba23~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_5a35a82ecf514f31be99ec6cbf4fba23~mv2.png\v1\fit\w_55,h_53,q_90,enc_avif,quality_auto\157569_5a35a82ecf514f31be99ec6cbf4fba23~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_5aceef321bbc46f08516cc0e0af89cd3~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_5aceef321bbc46f08516cc0e0af89cd3~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_5aceef321bbc46f08516cc0e0af89cd3~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_5aceef321bbc46f08516cc0e0af89cd3~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_5ddd7d2e77d34680acdafaa1f594f3ec~mv2.png/v1/fit/w_432,h_196,q_90,enc_avif,quality_auto/157569_5ddd7d2e77d34680acdafaa1f594f3ec~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_5ddd7d2e77d34680acdafaa1f594f3ec~mv2.png\v1\fit\w_432,h_196,q_90,enc_avif,quality_auto\157569_5ddd7d2e77d34680acdafaa1f594f3ec~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_5de7f842143a4cc29172818e8b5f2c01~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_60ed7b3507754562ba9f677c10df404f~mv2.png/v1/fit/w_54,h_45,q_90,enc_avif,quality_auto/157569_60ed7b3507754562ba9f677c10df404f~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_60ed7b3507754562ba9f677c10df404f~mv2.png\v1\fit\w_54,h_45,q_90,enc_avif,quality_auto\157569_60ed7b3507754562ba9f677c10df404f~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_60eed68ccc524230829d379cf50485db~mv2.png/v1/crop/x_473,y_724,w_1069,h_553/fill/w_49,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/7.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_60eed68ccc524230829d379cf50485db~mv2.png\v1\crop\x_473,y_724,w_1069,h_553\fill\w_49,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\7.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_60f36d30e18a4134a068fc7023d474d0~mv2.png/v1/crop/x_434,y_754,w_1194,h_458/fill/w_49,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/6.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_60f36d30e18a4134a068fc7023d474d0~mv2.png\v1\crop\x_434,y_754,w_1194,h_458\fill\w_49,h_19,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\6.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_6485c9eab9b14184afa064b6548119ec~mv2.png/v1/fill/w_49,h_33,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/infraestructura_datacenter_puntoit_cableadoestructurado_cctv.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_6485c9eab9b14184afa064b6548119ec~mv2.png\v1\fill\w_49,h_33,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\infraestructura_datacenter_puntoit_cableadoestructurado_cctv.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_692125149d5d49408bb5c3e6ea9e26f8~mv2.png/v1/fill/w_480,h_360,fp_0.89_0.15,q_90,enc_avif,quality_auto/157569_692125149d5d49408bb5c3e6ea9e26f8~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_692125149d5d49408bb5c3e6ea9e26f8~mv2.png\v1\fill\w_480,h_360,fp_0.89_0.15,q_90,enc_avif,quality_auto\157569_692125149d5d49408bb5c3e6ea9e26f8~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_6cd08390c53542ceadeb37f6c09b9800~mv2.png/v1/fit/w_68,h_64,q_90,enc_avif,quality_auto/157569_6cd08390c53542ceadeb37f6c09b9800~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_6cd08390c53542ceadeb37f6c09b9800~mv2.png\v1\fit\w_68,h_64,q_90,enc_avif,quality_auto\157569_6cd08390c53542ceadeb37f6c09b9800~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_6ec6b792586d48eab52d34f159e1bff8~mv2.png/v1/fit/w_364,h_190,q_90,enc_avif,quality_auto/157569_6ec6b792586d48eab52d34f159e1bff8~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_6ec6b792586d48eab52d34f159e1bff8~mv2.png\v1\fit\w_364,h_190,q_90,enc_avif,quality_auto\157569_6ec6b792586d48eab52d34f159e1bff8~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_74177388ab94406dacde39634ac46481~mv2.png/v1/fit/w_80,h_65,q_90,enc_avif,quality_auto/157569_74177388ab94406dacde39634ac46481~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_74177388ab94406dacde39634ac46481~mv2.png\v1\fit\w_80,h_65,q_90,enc_avif,quality_auto\157569_74177388ab94406dacde39634ac46481~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_79b2fec7c1104809bac7f5a8c167f28f~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_79b2fec7c1104809bac7f5a8c167f28f~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_79b2fec7c1104809bac7f5a8c167f28f~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_79b2fec7c1104809bac7f5a8c167f28f~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_7c85244827594383849288cc9ee2661b~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_7c85244827594383849288cc9ee2661b~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_7c85244827594383849288cc9ee2661b~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_7c85244827594383849288cc9ee2661b~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_7f8fef514c564637877ea97085fe11f0~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_7f8fef514c564637877ea97085fe11f0~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_7f8fef514c564637877ea97085fe11f0~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_7f8fef514c564637877ea97085fe11f0~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_7f8fef514c564637877ea97085fe11f0~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_7f8fef514c564637877ea97085fe11f0~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_7f8fef514c564637877ea97085fe11f0~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_7f8fef514c564637877ea97085fe11f0~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_81534eeb30424f09841513b5fa1f8f71~mv2.png/v1/fit/w_76,h_78,q_90,enc_avif,quality_auto/157569_81534eeb30424f09841513b5fa1f8f71~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_81534eeb30424f09841513b5fa1f8f71~mv2.png\v1\fit\w_76,h_78,q_90,enc_avif,quality_auto\157569_81534eeb30424f09841513b5fa1f8f71~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_8358eb8e92c7463c9dfb43d7f3887250~mv2.png/v1/fit/w_70,h_71,q_90,enc_avif,quality_auto/157569_8358eb8e92c7463c9dfb43d7f3887250~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_8358eb8e92c7463c9dfb43d7f3887250~mv2.png\v1\fit\w_70,h_71,q_90,enc_avif,quality_auto\157569_8358eb8e92c7463c9dfb43d7f3887250~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png/v1/fit/w_480,h_558,q_90,enc_avif,quality_auto/157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png\v1\fit\w_480,h_558,q_90,enc_avif,quality_auto\157569_8a029c58bddb4191a4ba2dcac1174eb8~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_8a5e16b741a24f3c8090ed4d65d1f129~mv2.jpg/v1/crop/x_0,y_38,w_701,h_601/fill/w_126,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/157569_8a5e16b741a24f3c8090ed4d65d1f129~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_8a5e16b741a24f3c8090ed4d65d1f129~mv2.jpg\v1\crop\x_0,y_38,w_701,h_601\fill\w_126,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\157569_8a5e16b741a24f3c8090ed4d65d1f129~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/157569_8a693f4ea2f544df8aa025fdea0b74ae~mv2.png/v1/fit/w_61,h_48,q_90,enc_avif,quality_auto/157569_8a693f4ea2f544df8aa025fdea0b74ae~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_8a693f4ea2f544df8aa025fdea0b74ae~mv2.png\v1\fit\w_61,h_48,q_90,enc_avif,quality_auto\157569_8a693f4ea2f544df8aa025fdea0b74ae~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_8c8f84e56f7e498ea1e466783cd77237~mv2.png/v1/fit/w_73,h_72,q_90,enc_avif,quality_auto/157569_8c8f84e56f7e498ea1e466783cd77237~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_8c8f84e56f7e498ea1e466783cd77237~mv2.png\v1\fit\w_73,h_72,q_90,enc_avif,quality_auto\157569_8c8f84e56f7e498ea1e466783cd77237~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_90ea8d39978448c9bd3af927792a67dd~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_90ea8d39978448c9bd3af927792a67dd~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_90ea8d39978448c9bd3af927792a67dd~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_90ea8d39978448c9bd3af927792a67dd~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_927975e6b5a247e483ba29087c83db66~mv2.png/v1/fit/w_72,h_63,q_90,enc_avif,quality_auto/157569_927975e6b5a247e483ba29087c83db66~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_927975e6b5a247e483ba29087c83db66~mv2.png\v1\fit\w_72,h_63,q_90,enc_avif,quality_auto\157569_927975e6b5a247e483ba29087c83db66~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_95aaa57ccad94bb0b7dee17faccafc45~mv2.png/v1/fit/w_75,h_71,q_90,enc_avif,quality_auto/157569_95aaa57ccad94bb0b7dee17faccafc45~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_95aaa57ccad94bb0b7dee17faccafc45~mv2.png\v1\fit\w_75,h_71,q_90,enc_avif,quality_auto\157569_95aaa57ccad94bb0b7dee17faccafc45~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_9db043386bc84bb49f048ae4701179de~mv2.png/v1/fit/w_78,h_69,q_90,enc_avif,quality_auto/157569_9db043386bc84bb49f048ae4701179de~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_9db043386bc84bb49f048ae4701179de~mv2.png\v1\fit\w_78,h_69,q_90,enc_avif,quality_auto\157569_9db043386bc84bb49f048ae4701179de~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_a5c20eb404f34ebdae156576a90d6923~mv2.png/v1/fit/w_53,h_48,q_90,enc_avif,quality_auto/157569_a5c20eb404f34ebdae156576a90d6923~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_a5c20eb404f34ebdae156576a90d6923~mv2.png\v1\fit\w_53,h_48,q_90,enc_avif,quality_auto\157569_a5c20eb404f34ebdae156576a90d6923~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_a64031743f92487dbe714ceb48f42068~mv2.png/v1/fill/w_160,h_82,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_a64031743f92487dbe714ceb48f42068~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_a64031743f92487dbe714ceb48f42068~mv2.png\v1\fill\w_160,h_82,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_a64031743f92487dbe714ceb48f42068~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_a774d03993a943848bdcb36a1ef1a6f4~mv2.png/v1/fit/w_420,h_190,q_90,enc_avif,quality_auto/157569_a774d03993a943848bdcb36a1ef1a6f4~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_a774d03993a943848bdcb36a1ef1a6f4~mv2.png\v1\fit\w_420,h_190,q_90,enc_avif,quality_auto\157569_a774d03993a943848bdcb36a1ef1a6f4~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_aa1f35c95ce54fbe86de2c87b8667f50~mv2.png/v1/fit/w_53,h_51,q_90,enc_avif,quality_auto/157569_aa1f35c95ce54fbe86de2c87b8667f50~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_aa1f35c95ce54fbe86de2c87b8667f50~mv2.png\v1\fit\w_53,h_51,q_90,enc_avif,quality_auto\157569_aa1f35c95ce54fbe86de2c87b8667f50~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_b2f77401233c4665ad5e86f4f1169855~mv2.png/v1/fit/w_53,h_52,q_90,enc_avif,quality_auto/157569_b2f77401233c4665ad5e86f4f1169855~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_b2f77401233c4665ad5e86f4f1169855~mv2.png\v1\fit\w_53,h_52,q_90,enc_avif,quality_auto\157569_b2f77401233c4665ad5e86f4f1169855~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_b331e089ec3f4736b41cd931927b4bda~mv2.png/v1/fit/w_424,h_182,q_90,enc_avif,quality_auto/157569_b331e089ec3f4736b41cd931927b4bda~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_b331e089ec3f4736b41cd931927b4bda~mv2.png\v1\fit\w_424,h_182,q_90,enc_avif,quality_auto\157569_b331e089ec3f4736b41cd931927b4bda~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_b4f52cd94235445fb0b664c952ced988~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_b4f52cd94235445fb0b664c952ced988~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_b4f52cd94235445fb0b664c952ced988~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_b4f52cd94235445fb0b664c952ced988~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_b4f52cd94235445fb0b664c952ced988~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_b4f52cd94235445fb0b664c952ced988~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_b4f52cd94235445fb0b664c952ced988~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_b4f52cd94235445fb0b664c952ced988~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png/v1/fit/w_960,h_716,q_90,enc_avif,quality_auto/157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png\v1\fit\w_960,h_716,q_90,enc_avif,quality_auto\157569_bcd5a6ced7bc499e901a7fd9902d1dde~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_c02ae39403e348a5834a6abd462a7f19~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_c02ae39403e348a5834a6abd462a7f19~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_c02ae39403e348a5834a6abd462a7f19~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_c02ae39403e348a5834a6abd462a7f19~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_c02ae39403e348a5834a6abd462a7f19~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_c02ae39403e348a5834a6abd462a7f19~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_c02ae39403e348a5834a6abd462a7f19~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_c02ae39403e348a5834a6abd462a7f19~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_c02ae39403e348a5834a6abd462a7f19~mv2.png/v1/fit/w_896,h_784,q_90,enc_avif,quality_auto/157569_c02ae39403e348a5834a6abd462a7f19~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_c02ae39403e348a5834a6abd462a7f19~mv2.png\v1\fit\w_896,h_784,q_90,enc_avif,quality_auto\157569_c02ae39403e348a5834a6abd462a7f19~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_c333ba2f37b84bf6bca67a8375f4e216~mv2.png/v1/fill/w_160,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_c333ba2f37b84bf6bca67a8375f4e216~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_c333ba2f37b84bf6bca67a8375f4e216~mv2.png\v1\fill\w_160,h_43,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_c333ba2f37b84bf6bca67a8375f4e216~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_d992dddd7a294cb286488286f74b4dcf~mv2.png/v1/fit/w_52,h_49,q_90,enc_avif,quality_auto/157569_d992dddd7a294cb286488286f74b4dcf~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_d992dddd7a294cb286488286f74b4dcf~mv2.png\v1\fit\w_52,h_49,q_90,enc_avif,quality_auto\157569_d992dddd7a294cb286488286f74b4dcf~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_dab7b57d08c641ec9918923341a5ea82~mv2.png/v1/fill/w_160,h_53,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_dab7b57d08c641ec9918923341a5ea82~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_dab7b57d08c641ec9918923341a5ea82~mv2.png\v1\fill\w_160,h_53,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_dab7b57d08c641ec9918923341a5ea82~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_de6fc73eff144769ae3fc0342c9d5633~mv2.png/v1/fit/w_69,h_66,q_90,enc_avif,quality_auto/157569_de6fc73eff144769ae3fc0342c9d5633~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_de6fc73eff144769ae3fc0342c9d5633~mv2.png\v1\fit\w_69,h_66,q_90,enc_avif,quality_auto\157569_de6fc73eff144769ae3fc0342c9d5633~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_ea825970a5184003abdb407a1ca6a613~mv2.png/v1/fit/w_480,h_360,q_90,enc_avif,quality_auto/157569_ea825970a5184003abdb407a1ca6a613~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_ea825970a5184003abdb407a1ca6a613~mv2.png\v1\fit\w_480,h_360,q_90,enc_avif,quality_auto\157569_ea825970a5184003abdb407a1ca6a613~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_ea825970a5184003abdb407a1ca6a613~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_ea825970a5184003abdb407a1ca6a613~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_ea825970a5184003abdb407a1ca6a613~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_ea825970a5184003abdb407a1ca6a613~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_efca63016cb44c4e83460a9e145ba2da~mv2.png/v1/fit/w_76,h_67,q_90,enc_avif,quality_auto/157569_efca63016cb44c4e83460a9e145ba2da~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_efca63016cb44c4e83460a9e145ba2da~mv2.png\v1\fit\w_76,h_67,q_90,enc_avif,quality_auto\157569_efca63016cb44c4e83460a9e145ba2da~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_f0866746a9134284beb91ac22f7c3fd9~mv2.png/v1/fit/w_394,h_190,q_90,enc_avif,quality_auto/157569_f0866746a9134284beb91ac22f7c3fd9~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_f0866746a9134284beb91ac22f7c3fd9~mv2.png\v1\fit\w_394,h_190,q_90,enc_avif,quality_auto\157569_f0866746a9134284beb91ac22f7c3fd9~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png/v1/fit/w_480,h_362,q_90,enc_avif,quality_auto/157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png\v1\fit\w_480,h_362,q_90,enc_avif,quality_auto\157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png/v1/fit/w_480,h_371,q_90,enc_avif,quality_auto/157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png\v1\fit\w_480,h_371,q_90,enc_avif,quality_auto\157569_f4b20b23f75342c7bb481bce0f6e545d~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png/v1/fill/w_100,h_32,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png\v1\fill\w_100,h_32,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png/v1/fill/w_160,h_52,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png\v1\fill\w_160,h_52,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\157569_fa241e72a63e45d9b367791fd4e03ae5~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/620819_9377a5c142b14a198742afe05e70f319~mv2.png/v1/fill/w_105,h_70,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/logo punto ret.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\620819_9377a5c142b14a198742afe05e70f319~mv2.png\v1\fill\w_105,h_70,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\logo punto ret.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/620819_fcb553f6bcf1440a87c182a6e56af5ed~mv2.png/v1/fill/w_113,h_70,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/punto letras blancas.png
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\media\620819_fcb553f6bcf1440a87c182a6e56af5ed~mv2.png\v1\fill\w_113,h_70,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\punto letras blancas.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/shapes/620819_f9a19ec6c3ae4f1691af2587a18ceb6f.svg
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\shapes\620819_f9a19ec6c3ae4f1691af2587a18ceb6f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.puntoit.com.ar/
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\index.htm
+Content Type: text/html
+
+Uri: https://www.puntoit.com.ar/contacto
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\contacto.html
+Content Type: text/html
+
+Uri: https://www.puntoit.com.ar/infraestructura
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\infraestructura.html
+Content Type: text/html
+
+Uri: https://www.puntoit.com.ar/software
+File Name: C:\Downloaded Web Sites\www.puntoit.com.ar\software.html
+Content Type: text/html
+
