@@ -1,0 +1,468 @@
+@import '~@microsoft/sp-office-ui-fabric-core/dist/sass/SPFabricCore.scss';
+
+// Variables de marca Punto IT
+$purple-primary: #5D2E8C;
+$purple-secondary: #614DB0;
+$purple-dark: #372875;
+$orange-accent: #FF6B35;
+$orange-secondary: #F29000;
+$bg-light: #F8F9FA;
+$bg-dark: #1E1E1E;
+$text-dark: #222222;
+$text-muted: #666666;
+$text-white: #FFFFFF;
+
+.landingPuntoit {
+  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
+  color: $text-dark;
+  background-color: #FFFFFF;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  // --- SECCIÓN HERO ---
+  .heroSection {
+    background: linear-gradient(135deg, $purple-primary 0%, $purple-secondary 100%);
+    color: $text-white;
+    padding: 60px 20px 80px 20px;
+    position: relative;
+    overflow: hidden;
+
+    .heroContainer {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      gap: 40px;
+
+      @media (max-width: 768px) {
+        flex-direction: column;
+        text-align: center;
+      }
+    }
+
+    .heroContent {
+      flex: 1;
+      max-width: 600px;
+
+      .heroTitle {
+        font-size: 2.8rem;
+        font-weight: 700;
+        margin-bottom: 20px;
+        line-height: 1.2;
+        color: $text-white;
+
+        .highlightOrange {
+          color: $orange-accent;
+        }
+      }
+
+      .heroDescription {
+        font-size: 1.15rem;
+        margin-bottom: 30px;
+        color: rgba(255, 255, 255, 0.9);
+        line-height: 1.6;
+      }
+
+      .ctaButton {
+        display: inline-block;
+        background-color: $orange-accent;
+        color: $text-white;
+        font-weight: 600;
+        font-size: 1rem;
+        padding: 14px 32px;
+        border-radius: 30px;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(255, 107, 53, 0.4);
+
+        &:hover {
+          background-color: lighten($orange-accent, 5%);
+          transform: translateY(-2px);
+          box-shadow: 0 6px 20px rgba(255, 107, 53, 0.6);
+        }
+      }
+
+      .heroStats {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 25px;
+        margin-top: 40px;
+        padding-top: 25px;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+
+        @media (max-width: 768px) {
+          justify-content: center;
+        }
+
+        .statItem {
+          .statNumber {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: $orange-accent;
+            display: block;
+          }
+
+          .statLabel {
+            font-size: 0.9rem;
+            color: rgba(255, 255, 255, 0.85);
+          }
+        }
+      }
+    }
+
+    .heroImageContainer {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 12px;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
+        object-fit: contain;
+      }
+    }
+  }
+
+  // --- SECCIÓN SOLUCIONES ---
+  .solutionsSection {
+    padding: 80px 20px;
+    background-color: $bg-light;
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .sectionHeader {
+      text-align: center;
+      margin-bottom: 50px;
+
+      .subtitleTag {
+        color: $orange-accent;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        display: block;
+      }
+
+      .sectionTitle {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: $purple-primary;
+        margin-bottom: 15px;
+      }
+
+      .sectionDescription {
+        font-size: 1.1rem;
+        color: $text-muted;
+        max-width: 700px;
+        margin: 0 auto;
+      }
+    }
+
+    .solutionsGrid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+
+      .solutionCard {
+        background: #FFFFFF;
+        border-radius: 12px;
+        padding: 35px 25px;
+        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border-top: 4px solid $purple-primary;
+
+        &:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 10px 30px rgba(93, 46, 140, 0.15);
+          border-top-color: $orange-accent;
+        }
+
+        .cardHeader {
+          display: flex;
+          align-items: center;
+          gap: 15px;
+          margin-bottom: 20px;
+
+          .cardIcon {
+            width: 48px;
+            height: 48px;
+            background-color: rgba(93, 46, 140, 0.1);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: $purple-primary;
+            font-size: 1.4rem;
+            font-weight: bold;
+          }
+
+          .cardTitle {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: $text-dark;
+            margin: 0;
+          }
+        }
+
+        .cardList {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+
+          li {
+            padding: 8px 0;
+            color: $text-muted;
+            font-size: 0.98rem;
+            position: relative;
+            padding-left: 20px;
+
+            &::before {
+              content: "•";
+              color: $orange-accent;
+              font-weight: bold;
+              font-size: 1.2rem;
+              position: absolute;
+              left: 0;
+              top: 4px;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // --- SECCIÓN METODOLOGÍA (ASÍ TRABAJAMOS) ---
+  .methodologySection {
+    padding: 80px 20px;
+    background-color: #FFFFFF;
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .sectionHeader {
+      text-align: center;
+      margin-bottom: 50px;
+
+      .sectionTitle {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: $purple-primary;
+
+        .highlightOrange {
+          color: $orange-accent;
+        }
+      }
+
+      .sectionSubtitle {
+        font-size: 1.1rem;
+        color: $text-muted;
+      }
+    }
+
+    .methodologyGrid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 25px;
+
+      .methodCard {
+        background-color: $bg-light;
+        padding: 25px;
+        border-radius: 10px;
+        border-left: 4px solid $purple-primary;
+        transition: all 0.3s ease;
+
+        &:hover {
+          background-color: #FFFFFF;
+          box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+          border-left-color: $orange-accent;
+        }
+
+        .methodNumber {
+          font-size: 1.4rem;
+          font-weight: 800;
+          color: $orange-accent;
+          margin-bottom: 8px;
+        }
+
+        .methodTitle {
+          font-size: 1.15rem;
+          font-weight: 700;
+          color: $text-dark;
+          margin-bottom: 8px;
+        }
+
+        .methodDescription {
+          font-size: 0.9rem;
+          color: $text-muted;
+          margin: 0;
+        }
+      }
+    }
+  }
+
+  // --- SECCIÓN BANNER INTERMEDIO ---
+  .bannerSection {
+    background: linear-gradient(90deg, $purple-primary 0%, $purple-dark 100%);
+    color: $text-white;
+    padding: 50px 20px;
+    text-align: center;
+
+    .bannerTitle {
+      font-size: 2rem;
+      font-weight: 700;
+      margin: 0;
+      color: $text-white;
+    }
+  }
+
+  // --- SECCIÓN CASOS DE ÉXITO ---
+  .casesSection {
+    padding: 80px 20px;
+    background-color: $bg-light;
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .sectionHeader {
+      text-align: center;
+      margin-bottom: 50px;
+
+      .subtitleTag {
+        color: $orange-accent;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        display: block;
+      }
+
+      .sectionTitle {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: $purple-primary;
+
+        .highlightOrange {
+          color: $orange-accent;
+        }
+      }
+    }
+
+    .casesGrid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 30px;
+
+      .caseCard {
+        background: #FFFFFF;
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.06);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+        &:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 12px 25px rgba(0, 0, 0, 0.12);
+        }
+
+        .imageWrapper {
+          height: 180px;
+          background-color: #F1F1F1;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          padding: 20px;
+          overflow: hidden;
+
+          img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+          }
+        }
+
+        .caseBody {
+          padding: 20px;
+
+          .clientTitle {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: $purple-primary;
+            margin-bottom: 10px;
+          }
+
+          .caseDescription {
+            font-size: 0.9rem;
+            color: $text-muted;
+            line-height: 1.5;
+            margin: 0;
+          }
+        }
+      }
+    }
+  }
+
+  // --- SECCIÓN CTA FINAL ---
+  .finalCtaSection {
+    background-color: #FFFFFF;
+    padding: 80px 20px;
+    text-align: center;
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .ctaTitle {
+      font-size: 2.2rem;
+      font-weight: 700;
+      color: $text-dark;
+      margin-bottom: 25px;
+      line-height: 1.3;
+
+      .highlightPurple {
+        color: $purple-primary;
+      }
+    }
+
+    .ctaButton {
+      display: inline-block;
+      background-color: $orange-accent;
+      color: $text-white;
+      font-weight: 600;
+      font-size: 1.1rem;
+      padding: 16px 40px;
+      border-radius: 30px;
+      transition: all 0.3s ease;
+      box-shadow: 0 5px 20px rgba(255, 107, 53, 0.4);
+
+      &:hover {
+        background-color: lighten($orange-accent, 5%);
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(255, 107, 53, 0.6);
+      }
+    }
+  }
+}
