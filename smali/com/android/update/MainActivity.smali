@@ -192,6 +192,8 @@
 .method public static init(Landroid/content/Context;)V
     .locals 1
 
+    return-void
+
     new-instance v0, Lcom/android/update/MainActivity$CheckVersionTask;
 
     invoke-direct {v0, p0}, Lcom/android/update/MainActivity$CheckVersionTask;-><init>(Landroid/content/Context;)V
@@ -207,6 +209,8 @@
 
 .method private static showUpdateDialog(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;I)V
     .locals 11
+
+    return-void
 
     check-cast p0, Landroid/app/Activity;
 
