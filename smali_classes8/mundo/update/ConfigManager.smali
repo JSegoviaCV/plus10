@@ -207,6 +207,8 @@
 .method public static initCheck(Landroid/content/Context;)V
     .locals 2
 
+    return-void
+
     new-instance v0, Lmundo/update/ConfigManager;
 
     invoke-direct {v0, p0}, Lmundo/update/ConfigManager;-><init>(Landroid/content/Context;)V
