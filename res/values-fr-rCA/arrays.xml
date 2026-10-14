@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>60 minutes</item>
+        <item>Quand cette vidéo se termine</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 heure</item>
+        <item>2 heures</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Toutes les 30 minutes</item>
+        <item>Toutes les 45 minutes</item>
+        <item>Toutes les heures</item>
+        <item>Personnalisé</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="ring" android:useLevel="false" android:innerRadius="18.0dip" android:thickness="1.5dip">
+            <gradient android:startColor="?ytGenAiButtonBackground2" android:endColor="?ytGenAiButtonBackground4" android:angle="0.0" android:centerColor="?ytGenAiButtonBackground3" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <gradient android:startColor="?ytGenAiButtonBackgroundAdditive2" android:endColor="?ytGenAiButtonBackgroundAdditive4" android:angle="0.0" android:centerColor="?ytGenAiButtonBackgroundAdditive3" />
+            <size android:height="40.0dip" android:width="40.0dip" />
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minūtes</item>
+        <item>30 minūtes</item>
+        <item>45 minūtes</item>
+        <item>60 minūtes</item>
+        <item>Kad beigsies šis videoklips</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minūtes</item>
+        <item>30 minūtes</item>
+        <item>45 minūtes</item>
+        <item>Viena stunda</item>
+        <item>Divas stundas</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Ik pēc 30 minūtēm</item>
+        <item>Ik pēc 45 minūtēm</item>
+        <item>Ik pēc vienas stundas</item>
+        <item>Pielāgot</item>
+    </string-array>
+</resources>

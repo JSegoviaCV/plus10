@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>60 นาที</item>
+        <item>เมื่อวิดีโอนี้จบลง</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>45 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>ทุกๆ 30 นาที</item>
+        <item>ทุกๆ 45 นาที</item>
+        <item>ทุกๆ 1 ชั่วโมง</item>
+        <item>ปรับแต่ง</item>
+    </string-array>
+</resources>

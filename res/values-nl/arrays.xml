@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>60 minuten</item>
+        <item>Als deze video is afgelopen</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>45 minuten</item>
+        <item>1 uur</item>
+        <item>2 uur</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Elke 30 minuten</item>
+        <item>Elke 45 minuten</item>
+        <item>Elk uur</item>
+        <item>Aanpassen</item>
+    </string-array>
+</resources>

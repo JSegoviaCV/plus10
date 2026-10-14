@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>60 minút</item>
+        <item>Po skončení tohto videa</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodine</item>
+        <item>2 hodinách</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Každých 30 minút</item>
+        <item>Každých 45 minút</item>
+        <item>Každú hodinu</item>
+        <item>Prispôsobiť</item>
+    </string-array>
+</resources>

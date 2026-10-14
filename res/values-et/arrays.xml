@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minutit</item>
+        <item>30 minutit</item>
+        <item>45 minutit</item>
+        <item>60 minutit</item>
+        <item>Kui see video lõpeb</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minutit</item>
+        <item>30 minutit</item>
+        <item>45 minutit</item>
+        <item>1 tundi</item>
+        <item>2 tundi</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Iga 30 minuti järel</item>
+        <item>Iga 45 minuti järel</item>
+        <item>Iga tunni järel</item>
+        <item>Kohanda</item>
+    </string-array>
+</resources>

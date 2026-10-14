@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.creation.timeline.ui.tracklist.TrackViewLayout android:id="@id/timeline_track_container" android:paddingTop="@dimen/timeline_track_padding_vertical" android:paddingBottom="@dimen/timeline_track_padding_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.libraries.youtube.creation.timeline.ui.spanrecyclerview.TimedItemRecyclerView android:id="@id/timeline_track" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never" />
+</com.google.android.libraries.youtube.creation.timeline.ui.tracklist.TrackViewLayout>

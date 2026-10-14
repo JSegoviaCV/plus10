@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>Dakika 15</item>
+        <item>Dakika 30</item>
+        <item>Dakika 45</item>
+        <item>Dakika 60</item>
+        <item>Video hii ikiisha</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>Dakika 15</item>
+        <item>Dakika 30</item>
+        <item>Dakika 45</item>
+        <item>Saa 1</item>
+        <item>Saa 2</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Kila baada ya dakika 30</item>
+        <item>Kila baada ya dakika 45</item>
+        <item>Kila baada ya saa 1</item>
+        <item>Badilisha upendavyo</item>
+    </string-array>
+</resources>

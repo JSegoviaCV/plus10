@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15분</item>
+        <item>30분</item>
+        <item>45분</item>
+        <item>60분</item>
+        <item>동영상이 끝날 때</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15분</item>
+        <item>30분</item>
+        <item>45분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30분마다</item>
+        <item>45분마다</item>
+        <item>1시간마다</item>
+        <item>맞춤설정</item>
+    </string-array>
+</resources>

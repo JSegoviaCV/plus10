@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/yt_expressive_gray60" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="18.0dip" android:paddingVertical="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/volume_button" android:background="@drawable/ime_toolbar_button_circle" android:padding="4.0dip" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/yt_outline_volume_off_white_24" android:tint="@color/yt_white1" android:layout_centerVertical="true" android:contentDescription="@string/volume_off" android:layout_alignParentStart="true" />
+    <com.google.android.flexbox.FlexboxLayout android:layout_gravity="center" android:id="@id/edit_style_button" android:background="@drawable/ime_toolbar_button_rectangle" android:layout_width="wrap_content" android:layout_height="36.0dip" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:paddingHorizontal="8.0dip" yt:alignItems="center" yt:flexDirection="row" yt:flexWrap="nowrap" yt:justifyContent="center">
+        <ImageView android:id="@id/pallet_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gs_palette_vd_theme_24" android:tint="@color/yt_white1" android:importantForAccessibility="no" />
+        <TextView android:textColor="@color/yt_white1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/edit_style" android:layout_marginStart="6.0dip" />
+    </com.google.android.flexbox.FlexboxLayout>
+    <ImageView android:id="@id/done_button" android:background="@drawable/ime_toolbar_button_white_circle" android:padding="4.0dip" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/yt_fill_check_black_24" android:layout_centerVertical="true" android:contentDescription="@string/done_button" android:layout_alignParentEnd="true" />
+</RelativeLayout>

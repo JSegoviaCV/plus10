@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>60 minuta</item>
+        <item>Kur videoja të mbarojë</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 ore</item>
+        <item>2 orësh</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Çdo 30 minuta</item>
+        <item>Çdo 45 minuta</item>
+        <item>Çdo 1 orë</item>
+        <item>Personalizo</item>
+    </string-array>
+</resources>

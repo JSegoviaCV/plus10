@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>‫۱۵ دقیقه</item>
+        <item>‫۳۰ دقیقه</item>
+        <item>‫۴۵ دقیقه</item>
+        <item>‫۶۰ دقیقه</item>
+        <item>وقتی این ویدیو تمام شد</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>‫۱۵ دقیقه</item>
+        <item>‫۳۰ دقیقه</item>
+        <item>‫۴۵ دقیقه</item>
+        <item>‫۱ ساعت</item>
+        <item>‫۲ ساعت</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>هر ۳۰ دقیقه</item>
+        <item>هر ۴۵ دقیقه</item>
+        <item>هر ۱ ساعت</item>
+        <item>سفارشی‌سازی کردن</item>
+    </string-array>
+</resources>

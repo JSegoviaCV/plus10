@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>‫15 منٹ</item>
+        <item>‫30 منٹ</item>
+        <item>‫45 منٹ</item>
+        <item>‫60 منٹ</item>
+        <item>اس ویڈیو کے ختم ہونے پر</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>‫15 منٹ</item>
+        <item>‫30 منٹ</item>
+        <item>‫45 منٹ</item>
+        <item>‫1 گھنٹہ</item>
+        <item>‫2 گھنٹے</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>ہر 30 منٹ میں</item>
+        <item>ہر 45 منٹ بعد</item>
+        <item>ہر 1 گھنٹہ بعد</item>
+        <item>حسب ضرورت بنائیں</item>
+    </string-array>
+</resources>

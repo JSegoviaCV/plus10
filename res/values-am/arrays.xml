@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>45 ደቂቃዎች</item>
+        <item>60 ደቂቃዎች</item>
+        <item>ይህ ቪድዮ ሲያበቃ</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 ደቂቃዎች</item>
+        <item>30 ደቂቃዎች</item>
+        <item>45 ደቂቃዎች</item>
+        <item>1 ሰዓት</item>
+        <item>2 ሰዓታት</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>በየ30 ደቂቃው</item>
+        <item>በየ45 ደቂቃው</item>
+        <item>በየ1 ሰዓት</item>
+        <item>አብጅ</item>
+    </string-array>
+</resources>

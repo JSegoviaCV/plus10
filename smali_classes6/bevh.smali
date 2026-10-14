@@ -1,0 +1,71 @@
+.class public final Lbevh;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Laoss;
+
+
+# static fields
+.field public static final a:Lbevh;
+
+
+# instance fields
+.field private final b:Laoss;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, Lbevh;
+
+    invoke-direct {v0}, Lbevh;-><init>()V
+
+    sput-object v0, Lbevh;->a:Lbevh;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 2
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    new-instance v0, Lbevj;
+
+    invoke-direct {v0}, Lbevj;-><init>()V
+
+    new-instance v1, Laosv;
+
+    invoke-direct {v1, v0}, Laosv;-><init>(Ljava/lang/Object;)V
+
+    iput-object v1, p0, Lbevh;->b:Laoss;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final b()Lbevi;
+    .locals 1
+
+    iget-object v0, p0, Lbevh;->b:Laoss;
+
+    check-cast v0, Laosv;
+
+    iget-object v0, v0, Laosv;->a:Ljava/lang/Object;
+
+    check-cast v0, Lbevi;
+
+    return-object v0
+.end method
+
+.method public final bridge synthetic lU()Ljava/lang/Object;
+    .locals 1
+
+    invoke-virtual {p0}, Lbevh;->b()Lbevi;
+
+    move-result-object v0
+
+    return-object v0
+.end method

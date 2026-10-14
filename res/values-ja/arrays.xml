@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 分</item>
+        <item>30 分</item>
+        <item>45 分</item>
+        <item>60 分</item>
+        <item>この動画が終了したとき</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 分</item>
+        <item>30 分</item>
+        <item>45 分</item>
+        <item>1 時間</item>
+        <item>2 時間</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 分ごと</item>
+        <item>45 分ごと</item>
+        <item>1 時間ごと</item>
+        <item>カスタマイズ</item>
+    </string-array>
+</resources>

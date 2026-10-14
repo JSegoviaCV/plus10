@@ -1,0 +1,110 @@
+.class public final Lmwn;
+.super Ljava/lang/Object;
+
+
+# static fields
+.field public static final a:Ljava/lang/String;
+
+
+# instance fields
+.field public b:Landroid/support/v7/widget/RecyclerView;
+
+.field public c:Lalhh;
+
+.field public d:Ljava/lang/String;
+
+.field public e:Lmwp;
+
+.field private f:Lnp;
+
+.field private g:Lnn;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 2
+
+    const-class v0, Lmwn;
+
+    invoke-virtual {v0}, Ljava/lang/Class;->getName()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-static {v0}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v0
+
+    const-string v1, ".PRESENT_CONTEXT_KEY"
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->concat(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v0
+
+    sput-object v0, Lmwn;->a:Ljava/lang/String;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()Lnn;
+    .locals 1
+
+    iget-object v0, p0, Lmwn;->g:Lnn;
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Lmwm;
+
+    invoke-direct {v0, p0}, Lmwm;-><init>(Lmwn;)V
+
+    iput-object v0, p0, Lmwn;->g:Lnn;
+
+    :cond_0
+    iget-object v0, p0, Lmwn;->g:Lnn;
+
+    return-object v0
+.end method
+
+.method public final b()Lnp;
+    .locals 1
+
+    iget-object v0, p0, Lmwn;->f:Lnp;
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Lmwl;
+
+    invoke-direct {v0, p0}, Lmwl;-><init>(Lmwn;)V
+
+    iput-object v0, p0, Lmwn;->f:Lnp;
+
+    :cond_0
+    iget-object v0, p0, Lmwn;->f:Lnp;
+
+    return-object v0
+.end method
+
+.method public final c()V
+    .locals 2
+
+    iget-object v0, p0, Lmwn;->b:Landroid/support/v7/widget/RecyclerView;
+
+    iget-object v0, v0, Landroid/support/v7/widget/RecyclerView;->m:Lnl;
+
+    check-cast v0, Lcom/google/android/libraries/youtube/rendering/ui/ScrollToTopLinearLayoutManager;
+
+    const/4 v1, 0x1
+
+    iput-boolean v1, v0, Lcom/google/android/libraries/youtube/rendering/ui/ScrollToTopLinearLayoutManager;->b:Z
+
+    return-void
+.end method

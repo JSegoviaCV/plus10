@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>60 నిమిషాలు</item>
+        <item>ఈ వీడియో పూర్తయినప్పుడు</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>ప్రతి 30 నిమిషాలు</item>
+        <item>ప్రతి 45 నిమిషాలు</item>
+        <item>ప్రతి 1 గంట</item>
+        <item>అనుకూలంగా మార్చండి</item>
+    </string-array>
+</resources>

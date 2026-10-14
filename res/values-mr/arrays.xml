@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>१५ मिनिटे</item>
+        <item>३० मिनिटे</item>
+        <item>४५ मिनिटे</item>
+        <item>६० मिनिटे</item>
+        <item>हा व्हिडिओ संपल्यावर</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>१५ मिनिटे</item>
+        <item>३० मिनिटे</item>
+        <item>४५ मिनिटे</item>
+        <item>१ तास</item>
+        <item>२ तास</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>दर ३० मिनिटांनी</item>
+        <item>दर ४५ मिनिटांनी</item>
+        <item>दर १ तासाने</item>
+        <item>कस्टमाइझ करा</item>
+    </string-array>
+</resources>

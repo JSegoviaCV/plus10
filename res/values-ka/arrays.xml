@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 წუთი</item>
+        <item>30 წუთი</item>
+        <item>45 წუთი</item>
+        <item>60 წუთი</item>
+        <item>ამ ვიდეოს დასრულებისას</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 წუთი</item>
+        <item>30 წუთი</item>
+        <item>45 წუთი</item>
+        <item>1 საათი</item>
+        <item>2 საათი</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>ყოველ 30 წუთში</item>
+        <item>ყოველ 45 წუთში</item>
+        <item>ყოველ 1 საათში</item>
+        <item>მორგება</item>
+    </string-array>
+</resources>

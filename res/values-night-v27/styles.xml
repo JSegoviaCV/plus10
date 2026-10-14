@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YouTube.Home" parent="@style/Base.V27.Theme.YouTube.Home">
+        <item name="android:colorBackground">@color/yt_black1</item>
+        <item name="android:windowBackground">@color/yt_black1</item>
+        <item name="android:navigationBarColor">@color/yt_black1</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorPrimaryDark">@color/yt_black1</item>
+    </style>
+    <style name="Theme.YouTube.Launcher.Cairo" parent="@style/Base.V27.Theme.YouTube.Launcher.Cairo.Dark" />
+</resources>

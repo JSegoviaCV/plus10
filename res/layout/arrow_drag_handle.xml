@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center|top" android:id="@id/arrow_drag_handle" android:paddingTop="8.0dip" android:focusable="true" android:clickable="true" android:layout_width="40.0dip" android:layout_height="12.0dip" android:src="@drawable/engagement_panel_drag_handle" android:contentDescription="@string/panel_accessibility_drag_handle" />
+</FrameLayout>

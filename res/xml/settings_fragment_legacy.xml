@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Preference android:selectable="true" android:key="@string/yt_unplugged_pref_key" android:fragment="placeholder" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/revanced_settings_key_icon" android:title="@string/revanced_settings_title" android:key="revanced_settings_key">
+        <intent android:targetPackage="com.android.youtube.premium" android:data="revanced_settings_intent" android:targetClass="com.google.android.libraries.social.licenses.LicenseActivity" />
+    </Preference>
+    <Preference android:icon="@drawable/parent_tools_key" android:title="Parent Settings" android:selectable="true" android:key="@string/parent_tools_key" android:fragment="placeholder" app:iconSpaceReserved="true" />
+    <Preference android:selectable="true" android:key="@string/yt_unlimited_pre_purchase_key" android:fragment="placeholder" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/general_key" android:title="@string/pref_general_category" android:key="@string/general_key" android:fragment="com.google.android.apps.youtube.app.settings.GeneralPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/account_switcher_key" android:key="@string/account_switcher_key" android:fragment="placeholder" android:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/data_saving_settings_key" android:title="@string/pref_settings_data_saving" android:key="@string/data_saving_settings_key" android:fragment="com.google.android.apps.youtube.app.settings.datasaving.DataSavingPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/auto_play_key" android:key="@string/auto_play_key" android:fragment="com.google.android.apps.youtube.app.settings.AutoplayPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/video_quality_settings_key" android:title="@string/pref_settings_video_quality" android:key="@string/video_quality_settings_key" android:fragment="com.google.android.apps.youtube.app.settings.videoquality.VideoQualityPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:key="@string/yt_unlimited_post_purchase_key" android:fragment="placeholder" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/offline_key" android:key="@string/offline_key" android:fragment="com.google.android.apps.youtube.app.settings.OfflinePrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/pair_with_tv_key" android:title="@string/mdx_pair_with_tv_prefs_title" android:key="@string/pair_with_tv_key" android:fragment="placeholder" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/history_key" android:key="@string/history_key" android:fragment="placeholder" />
+    <Preference android:icon="@drawable/your_data_key" android:key="@string/your_data_key" android:fragment="placeholder" android:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/privacy_key" android:key="@string/privacy_key" android:fragment="com.google.android.apps.youtube.app.settings.PrivacyPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/premium_early_access_browse_page_key" android:key="@string/premium_early_access_browse_page_key" android:fragment="placeholder" android:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/subscription_product_setting_key" android:key="@string/subscription_product_setting_key" android:fragment="placeholder" />
+    <Preference android:icon="@drawable/billing_and_payment_key" android:key="@string/billing_and_payment_key" android:fragment="com.google.android.apps.youtube.app.settings.BillingsAndPaymentsPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/notification_key" android:key="@string/notification_key" android:fragment="com.google.android.apps.youtube.app.settings.NotificationPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:key="@string/third_party_key" android:fragment="com.google.android.apps.youtube.app.settings.ThirdPartyPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/connected_accounts_browse_page_key" android:key="@string/connected_accounts_browse_page_key" android:fragment="placeholder" android:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/live_chat_key" android:key="@string/live_chat_key" android:fragment="com.google.android.apps.youtube.app.livechat.settings.LiveChatSettingFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/captions_key" android:title="@string/pref_subtitles_category" android:key="@string/captions_key" android:fragment="placeholder" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/accessibility_settings_key" android:title="@string/pref_settings_accessibility" android:key="@string/accessibility_settings_key" android:fragment="com.google.android.apps.youtube.app.settings.accessibility.AccessibilityPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:title="@string/pref_dogfood_category" android:key="@string/dogfood_settings_key" android:fragment="com.google.android.apps.youtube.app.settings.dogfood.DogfoodPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:title="@string/pref_developer_category" android:key="@string/developer_settings_key" android:fragment="com.google.android.apps.youtube.app.settings.developer.DeveloperPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:icon="@drawable/about_key" android:title="@string/pref_about_category" android:key="@string/about_key" android:fragment="com.google.android.apps.youtube.app.settings.AboutPrefsFragment" app:iconSpaceReserved="false" />
+    <Preference android:title="@string/pref_refresh_config" android:key="@string/refresh_config_key" android:fragment="placeholder" app:iconSpaceReserved="false" />
+</PreferenceScreen>

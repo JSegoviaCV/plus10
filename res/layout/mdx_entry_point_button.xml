@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.mdx.mediaroute.entrypoint.MdxEntryPointButton android:id="@id/mdx_entry_point_button" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Widget.YouTube.MediaRouteButton"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

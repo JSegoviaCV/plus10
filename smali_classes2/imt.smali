@@ -1,0 +1,265 @@
+.class public final Limt;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Limv;
+
+
+# instance fields
+.field public final a:Latda;
+
+
+# direct methods
+.method public constructor <init>(Latda;)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Limt;->a:Latda;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()Lasuc;
+    .locals 3
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x0
+
+    return-object v0
+
+    :cond_0
+    iget v1, v0, Latda;->c:I
+
+    const/4 v2, 0x3
+
+    if-ne v1, v2, :cond_1
+
+    iget-object v0, v0, Latda;->d:Ljava/lang/Object;
+
+    check-cast v0, Lasuc;
+
+    return-object v0
+
+    :cond_1
+    sget-object v0, Lasuc;->a:Lasuc;
+
+    return-object v0
+.end method
+
+.method public final b()Lasuc;
+    .locals 3
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x0
+
+    return-object v0
+
+    :cond_0
+    iget v1, v0, Latda;->c:I
+
+    const/4 v2, 0x2
+
+    if-ne v1, v2, :cond_1
+
+    iget-object v0, v0, Latda;->d:Ljava/lang/Object;
+
+    check-cast v0, Lasuc;
+
+    return-object v0
+
+    :cond_1
+    sget-object v0, Lasuc;->a:Lasuc;
+
+    return-object v0
+.end method
+
+.method public final c()Laupy;
+    .locals 1
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x0
+
+    return-object v0
+
+    :cond_0
+    iget-object v0, v0, Latda;->e:Laupy;
+
+    if-nez v0, :cond_1
+
+    sget-object v0, Laupy;->a:Laupy;
+
+    :cond_1
+    return-object v0
+.end method
+
+.method public final d()Lbagh;
+    .locals 2
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-eqz v0, :cond_1
+
+    iget v1, v0, Latda;->b:I
+
+    and-int/lit8 v1, v1, 0x40
+
+    if-eqz v1, :cond_1
+
+    iget-object v0, v0, Latda;->k:Lbagh;
+
+    if-nez v0, :cond_0
+
+    sget-object v0, Lbagh;->a:Lbagh;
+
+    :cond_0
+    return-object v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    return-object v0
+.end method
+
+.method public final e()Ljava/lang/Object;
+    .locals 1
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    return-object v0
+.end method
+
+.method public final f()Ljava/lang/String;
+    .locals 2
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-eqz v0, :cond_1
+
+    iget v1, v0, Latda;->b:I
+
+    and-int/lit8 v1, v1, 0x2
+
+    if-eqz v1, :cond_1
+
+    iget-object v0, v0, Latda;->f:Larji;
+
+    if-nez v0, :cond_0
+
+    sget-object v0, Larji;->a:Larji;
+
+    :cond_0
+    iget-object v0, v0, Larji;->c:Ljava/lang/String;
+
+    return-object v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    return-object v0
+.end method
+
+.method public final g()Ljava/lang/String;
+    .locals 2
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-eqz v0, :cond_1
+
+    iget v1, v0, Latda;->b:I
+
+    and-int/lit8 v1, v1, 0x20
+
+    if-eqz v1, :cond_1
+
+    iget-object v0, v0, Latda;->j:Laufv;
+
+    if-nez v0, :cond_0
+
+    sget-object v0, Laufv;->a:Laufv;
+
+    :cond_0
+    iget-object v0, v0, Laufv;->d:Ljava/lang/String;
+
+    return-object v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    return-object v0
+.end method
+
+.method public final h()I
+    .locals 2
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-eqz v0, :cond_1
+
+    iget v1, v0, Latda;->b:I
+
+    and-int/lit16 v1, v1, 0x200
+
+    if-eqz v1, :cond_1
+
+    iget v0, v0, Latda;->n:I
+
+    invoke-static {v0}, La;->di(I)I
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :cond_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    return v0
+.end method
+
+.method public final i()I
+    .locals 2
+
+    iget-object v0, p0, Limt;->a:Latda;
+
+    if-eqz v0, :cond_1
+
+    iget v1, v0, Latda;->b:I
+
+    and-int/lit16 v1, v1, 0x80
+
+    if-eqz v1, :cond_1
+
+    iget v0, v0, Latda;->l:I
+
+    invoke-static {v0}, La;->cv(I)I
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    const/4 v0, 0x1
+
+    :cond_0
+    return v0
+
+    :cond_1
+    const/4 v0, 0x0
+
+    return v0
+.end method

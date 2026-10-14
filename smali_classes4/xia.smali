@@ -1,0 +1,54 @@
+.class final Lxia;
+.super Landroid/util/Property;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    sget-object v0, Ljava/lang/Float;->TYPE:Ljava/lang/Class;
+
+    const-string v1, "revealState"
+
+    invoke-direct {p0, v0, v1}, Landroid/util/Property;-><init>(Ljava/lang/Class;Ljava/lang/String;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic get(Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 1
+
+    check-cast p1, Lxib;
+
+    sget v0, Lxib;->f:I
+
+    iget p1, p1, Lxib;->e:F
+
+    invoke-static {p1}, Ljava/lang/Float;->valueOf(F)Ljava/lang/Float;
+
+    move-result-object p1
+
+    return-object p1
+.end method
+
+.method public final bridge synthetic set(Ljava/lang/Object;Ljava/lang/Object;)V
+    .locals 1
+
+    check-cast p1, Lxib;
+
+    check-cast p2, Ljava/lang/Float;
+
+    invoke-virtual {p2}, Ljava/lang/Float;->floatValue()F
+
+    move-result p2
+
+    sget v0, Lxib;->f:I
+
+    iput p2, p1, Lxib;->e:F
+
+    invoke-virtual {p1}, Lxib;->invalidateSelf()V
+
+    return-void
+.end method

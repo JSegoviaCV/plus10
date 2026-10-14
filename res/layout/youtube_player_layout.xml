@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.common.ui.FixedAspectRatioFrameLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/fixed_aspect_ratio_container" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:layout_marginStart="78.0dip" android:layout_marginEnd="78.0dip" yt:aspectRatio="@fraction/aspect_ratio_9_16"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.youtube.common.ui.RoundedFrameLayout android:id="@id/rounded_container" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" yt:corners="16.0dip">
+        <com.google.android.libraries.youtube.player.ui.PlayerView android:id="@id/player_view" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <include android:layout_width="fill_parent" android:layout_height="fill_parent" layout="@layout/video_preview_estate" />
+    </com.google.android.libraries.youtube.common.ui.RoundedFrameLayout>
+</com.google.android.libraries.youtube.common.ui.FixedAspectRatioFrameLayout>

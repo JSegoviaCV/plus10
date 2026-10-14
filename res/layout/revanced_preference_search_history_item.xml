@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?android:selectableItemBackground" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="20.0dip" android:paddingEnd="20.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/history_icon" android:layout_width="24.0dip" android:layout_height="24.0dip" android:src="@drawable/revanced_settings_arrow_time" android:tint="?android:textColorSecondary" android:layout_marginEnd="16.0dip" />
+    <TextView android:textSize="16.0sp" android:textColor="?android:textColorPrimary" android:ellipsize="end" android:id="@id/history_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1.0" />
+    <ImageView android:id="@id/delete_icon" android:background="?android:selectableItemBackgroundBorderless" android:padding="4.0dip" android:focusable="true" android:clickable="true" android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/revanced_settings_search_remove" android:scaleType="centerInside" android:tint="?android:textColorSecondary" android:layout_marginStart="16.0dip" />
+</LinearLayout>

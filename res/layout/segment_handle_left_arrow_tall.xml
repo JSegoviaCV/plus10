@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/segment_handle_left_arrow_tall" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" app:layout_constraintLeft_toLeftOf="parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/segment_handle_left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/segment_handle_vector_tall" android:contentDescription="@string/segment_handle_left" android:scaleX="-1.0" />
+    <com.airbnb.lottie.LottieAnimationView android:id="@id/segment_left_symbol" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/segment_arrow_vector" android:scaleType="center" android:layout_alignTop="@id/segment_handle_left" android:layout_alignBottom="@id/segment_handle_left" android:layout_alignStart="@id/segment_handle_left" android:layout_alignEnd="@id/segment_handle_left" />
+</RelativeLayout>

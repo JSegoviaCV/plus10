@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>60 хвилин</item>
+        <item>Коли це відео закінчиться</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>45 хвилин</item>
+        <item>1 год</item>
+        <item>2 год</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Кожні 30 хвилин</item>
+        <item>Кожні 45 хвилин</item>
+        <item>Кожну годину</item>
+        <item>Налаштувати</item>
+    </string-array>
+</resources>

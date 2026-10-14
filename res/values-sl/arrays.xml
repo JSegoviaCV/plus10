@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>60 minut</item>
+        <item>Ko se ta videoposnetek konča</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>45 minut</item>
+        <item>1 uri</item>
+        <item>2 urah</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Vsakih 30 minut</item>
+        <item>Vsakih 45 minut</item>
+        <item>Vsako uro</item>
+        <item>Prilagodi</item>
+    </string-array>
+</resources>

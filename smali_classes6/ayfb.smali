@@ -1,0 +1,158 @@
+.class public final Layfb;
+.super Laqzm;
+
+# interfaces
+.implements Laraz;
+
+
+# annotations
+.annotation runtime Ljava/lang/Deprecated;
+.end annotation
+
+
+# static fields
+.field public static final a:Layfb;
+
+.field private static volatile b:Larbf;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 2
+
+    new-instance v0, Layfb;
+
+    invoke-direct {v0}, Layfb;-><init>()V
+
+    sput-object v0, Layfb;->a:Layfb;
+
+    const-class v1, Layfb;
+
+    invoke-static {v1, v0}, Laqzm;->registerDefaultInstance(Ljava/lang/Class;Laqzm;)V
+
+    return-void
+.end method
+
+.method private constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Laqzm;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method protected final dynamicMethod(Laqzl;Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+    .locals 0
+
+    invoke-virtual {p1}, Laqzl;->ordinal()I
+
+    move-result p1
+
+    if-eqz p1, :cond_7
+
+    const/4 p2, 0x2
+
+    const/4 p3, 0x0
+
+    if-eq p1, p2, :cond_6
+
+    const/4 p2, 0x3
+
+    if-eq p1, p2, :cond_5
+
+    const/4 p2, 0x4
+
+    if-eq p1, p2, :cond_4
+
+    const/4 p2, 0x5
+
+    if-eq p1, p2, :cond_3
+
+    const/4 p2, 0x6
+
+    if-ne p1, p2, :cond_2
+
+    sget-object p1, Layfb;->b:Larbf;
+
+    if-nez p1, :cond_1
+
+    const-class p2, Layfb;
+
+    monitor-enter p2
+
+    :try_start_0
+    sget-object p1, Layfb;->b:Larbf;
+
+    if-nez p1, :cond_0
+
+    new-instance p1, Laqzf;
+
+    sget-object p3, Layfb;->a:Layfb;
+
+    invoke-direct {p1, p3}, Laqzf;-><init>(Laqzm;)V
+
+    sput-object p1, Layfb;->b:Larbf;
+
+    :cond_0
+    monitor-exit p2
+
+    return-object p1
+
+    :catchall_0
+    move-exception p1
+
+    monitor-exit p2
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    throw p1
+
+    :cond_1
+    return-object p1
+
+    :cond_2
+    throw p3
+
+    :cond_3
+    sget-object p1, Layfb;->a:Layfb;
+
+    return-object p1
+
+    :cond_4
+    new-instance p1, Laqze;
+
+    sget-object p2, Layfb;->a:Layfb;
+
+    invoke-direct {p1, p2}, Laqze;-><init>(Laqzm;)V
+
+    return-object p1
+
+    :cond_5
+    new-instance p1, Layfb;
+
+    invoke-direct {p1}, Layfb;-><init>()V
+
+    return-object p1
+
+    :cond_6
+    sget-object p1, Layfb;->a:Layfb;
+
+    const-string p2, "\u0001\u0000"
+
+    invoke-static {p1, p2, p3}, Layfb;->newMessageInfo(Lcom/google/protobuf/MessageLite;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object p1
+
+    return-object p1
+
+    :cond_7
+    const/4 p1, 0x1
+
+    invoke-static {p1}, Ljava/lang/Byte;->valueOf(B)Ljava/lang/Byte;
+
+    move-result-object p1
+
+    return-object p1
+.end method

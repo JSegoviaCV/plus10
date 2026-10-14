@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>Через 15 минут</item>
+        <item>Через 30 минут</item>
+        <item>Через 45 минут</item>
+        <item>Через 60 минут</item>
+        <item>По окончании видео</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>Через 15 минут</item>
+        <item>Через 30 минут</item>
+        <item>Через 45 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Каждые 30 минут</item>
+        <item>Каждые 45 минут</item>
+        <item>Каждый час</item>
+        <item>Настроить</item>
+    </string-array>
+</resources>

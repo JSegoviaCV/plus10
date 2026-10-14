@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>45 минути</item>
+        <item>60 минути</item>
+        <item>Кога ќе заврши видеово</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>45 минути</item>
+        <item>1 ч.</item>
+        <item>2 ч.</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Секои 30 минути</item>
+        <item>Секои 45 минути</item>
+        <item>Секој 1 час</item>
+        <item>Приспособете</item>
+    </string-array>
+</resources>

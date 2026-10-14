@@ -1,0 +1,2 @@
+.class public abstract Lkotlin/math/MathKt__MathHKt;
+.super Ljava/lang/Object;

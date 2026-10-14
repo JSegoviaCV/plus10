@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>45 dakika</item>
+        <item>60 dakika</item>
+        <item>Bu video sona erdiğinde</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>45 dakika</item>
+        <item>1 saat</item>
+        <item>2 saat</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 dakikada bir</item>
+        <item>45 dakikada bir</item>
+        <item>Saatte bir</item>
+        <item>Özelleştir</item>
+    </string-array>
+</resources>

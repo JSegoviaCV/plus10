@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 րոպե</item>
+        <item>30 րոպե</item>
+        <item>45 րոպե</item>
+        <item>60 րոպե</item>
+        <item>Երբ այս տեսանյութն ավարտվի</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 րոպե</item>
+        <item>30 րոպե</item>
+        <item>45 րոպե</item>
+        <item>1 ժամից</item>
+        <item>2 ժամից</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Ամեն 30 րոպեն մեկ</item>
+        <item>Ամեն 45 րոպեն մեկ</item>
+        <item>Ամեն ժամ</item>
+        <item>Կարգավորել</item>
+    </string-array>
+</resources>

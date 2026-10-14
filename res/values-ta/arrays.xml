@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>45 நிமிடங்கள்</item>
+        <item>60 நிமிடங்கள்</item>
+        <item>இந்த வீடியோ முடியும்போது</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>45 நிமிடங்கள்</item>
+        <item>1 மணிநேரம்</item>
+        <item>2 மணிநேரம்</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 நிமிடங்களுக்கு ஒருமுறை</item>
+        <item>45 நிமிடங்களுக்கு ஒருமுறை</item>
+        <item>1 மணிநேரத்திற்கு ஒருமுறை</item>
+        <item>பிரத்தியேகமானது</item>
+    </string-array>
+</resources>

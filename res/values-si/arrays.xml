@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>මිනිත්තු 15</item>
+        <item>මිනිත්තු 30</item>
+        <item>මිනිත්තු 45</item>
+        <item>මිනිත්තු 60</item>
+        <item>මෙම වීඩියෝව නිමා වූ විට</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>මිනිත්තු 15</item>
+        <item>මිනිත්තු 30</item>
+        <item>මිනිත්තු 45</item>
+        <item>පැය 1</item>
+        <item>පැය 2</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>සෑම මිනිත්තු 30 කට වරක්</item>
+        <item>සෑම මිනිත්තු 45කම</item>
+        <item>සෑම 1 පැයකට වරක්</item>
+        <item>අභිරුචිකරණය කරන්න</item>
+    </string-array>
+</resources>

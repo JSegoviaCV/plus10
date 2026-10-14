@@ -1,0 +1,16 @@
+.class public interface abstract Lamcj;
+.super Ljava/lang/Object;
+
+
+# virtual methods
+.method public abstract a()Ljava/lang/Object;
+.end method
+
+.method public abstract b()V
+.end method
+
+.method public abstract c()V
+.end method
+
+.method public abstract d()V
+.end method

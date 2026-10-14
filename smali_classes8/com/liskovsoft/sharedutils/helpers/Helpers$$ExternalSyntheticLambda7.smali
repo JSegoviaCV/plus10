@@ -1,0 +1,39 @@
+.class public final synthetic Lcom/liskovsoft/sharedutils/helpers/Helpers$$ExternalSyntheticLambda7;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# instance fields
+.field public final synthetic f$0:Landroid/app/Activity;
+
+.field public final synthetic f$1:F
+
+
+# direct methods
+.method public synthetic constructor <init>(Landroid/app/Activity;F)V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    iput-object p1, p0, Lcom/liskovsoft/sharedutils/helpers/Helpers$$ExternalSyntheticLambda7;->f$0:Landroid/app/Activity;
+
+    iput p2, p0, Lcom/liskovsoft/sharedutils/helpers/Helpers$$ExternalSyntheticLambda7;->f$1:F
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 2
+
+    iget-object v0, p0, Lcom/liskovsoft/sharedutils/helpers/Helpers$$ExternalSyntheticLambda7;->f$0:Landroid/app/Activity;
+
+    iget v1, p0, Lcom/liskovsoft/sharedutils/helpers/Helpers$$ExternalSyntheticLambda7;->f$1:F
+
+    invoke-static {v0, v1}, Lcom/liskovsoft/sharedutils/helpers/Helpers;->$r8$lambda$pWfM4rfaigY6XROizkgkRrLTBEA(Landroid/app/Activity;F)V
+
+    return-void
+.end method

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="font" name="gm3_ref_typeface_brand_medium">@font/google_sans_medium_compat</item>
+    <item type="font" name="gm3_ref_typeface_brand_regular">@font/google_sans_compat</item>
+    <item type="font" name="gm3_ref_typeface_plain_bold">@font/google_sans_text_bold_compat</item>
+    <item type="font" name="gm3_ref_typeface_plain_medium">@font/google_sans_text_medium_compat</item>
+    <item type="font" name="gm3_ref_typeface_plain_regular">@font/google_sans_text_compat</item>
+    <item type="font" name="APKTOOL_DUMMY_0" />
+    <item type="font" name="APKTOOL_DUMMY_6" />
+    <item type="font" name="APKTOOL_DUMMY_7" />
+    <item type="font" name="APKTOOL_DUMMY_8" />
+    <item type="font" name="APKTOOL_DUMMY_9" />
+    <item type="font" name="APKTOOL_DUMMY_a" />
+    <item type="font" name="APKTOOL_DUMMY_b" />
+    <item type="font" name="APKTOOL_DUMMY_d" />
+    <item type="font" name="APKTOOL_DUMMY_11" />
+    <item type="font" name="APKTOOL_DUMMY_12" />
+    <item type="font" name="APKTOOL_DUMMY_13" />
+    <item type="font" name="APKTOOL_DUMMY_14" />
+    <item type="font" name="APKTOOL_DUMMY_15" />
+    <item type="font" name="APKTOOL_DUMMY_16" />
+    <item type="font" name="APKTOOL_DUMMY_17" />
+    <item type="font" name="APKTOOL_DUMMY_18" />
+    <item type="font" name="APKTOOL_DUMMY_1b" />
+    <item type="font" name="APKTOOL_DUMMY_1c" />
+    <item type="font" name="APKTOOL_DUMMY_1f" />
+    <item type="font" name="APKTOOL_DUMMY_21" />
+</resources>

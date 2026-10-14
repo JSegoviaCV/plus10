@@ -1,0 +1,36 @@
+.class public final Lhey;
+.super Lalku;
+
+
+# instance fields
+.field public final a:Lalhx;
+
+
+# direct methods
+.method public constructor <init>(Lalmz;)V
+    .locals 1
+
+    invoke-direct {p0}, Lalku;-><init>()V
+
+    const-class v0, Lasmu;
+
+    invoke-interface {p1, v0}, Lalmz;->b(Ljava/lang/Class;)V
+
+    new-instance p1, Lalhx;
+
+    invoke-direct {p1}, Lalhx;-><init>()V
+
+    iput-object p1, p0, Lhey;->a:Lalhx;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a()Lalgd;
+    .locals 1
+
+    iget-object v0, p0, Lhey;->a:Lalhx;
+
+    return-object v0
+.end method

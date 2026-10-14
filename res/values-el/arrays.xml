@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>60 λεπτά</item>
+        <item>Όταν τελειώσει αυτό το βίντεο</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>45 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Κάθε 30 λεπτά</item>
+        <item>Κάθε 45 λεπτά</item>
+        <item>Κάθε 1 ώρα</item>
+        <item>Προσαρμογή</item>
+    </string-array>
+</resources>

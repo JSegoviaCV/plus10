@@ -1,0 +1,24 @@
+.class public Lrec;
+.super Ljava/lang/Object;
+
+
+# instance fields
+.field public c:Lree;
+
+.field public d:Ljava/lang/Object;
+
+.field public e:Ljava/lang/Object;
+
+.field public f:F
+
+.field public g:F
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method

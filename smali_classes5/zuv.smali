@@ -1,0 +1,28 @@
+.class public final Lzuv;
+.super Lzvk;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Lzvk;-><init>()V
+
+    return-void
+.end method
+
+.method public constructor <init>(Ljava/lang/Throwable;)V
+    .locals 0
+
+    invoke-direct {p0, p1}, Lzvk;-><init>(Ljava/lang/Throwable;)V
+
+    return-void
+.end method
+
+.method public constructor <init>(Lzus;)V
+    .locals 0
+
+    invoke-direct {p0, p1}, Lzvk;-><init>(Lzus;)V
+
+    return-void
+.end method

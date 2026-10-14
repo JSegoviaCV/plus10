@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 мүнөт</item>
+        <item>30 мүнөт</item>
+        <item>45 мүнөт</item>
+        <item>60 мүнөт</item>
+        <item>Видео аяктаганда</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 мүнөт</item>
+        <item>30 мүнөт</item>
+        <item>45 мүнөт</item>
+        <item>1 саат</item>
+        <item>2 саат</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 мүнөт сайын</item>
+        <item>45 мүнөт сайын</item>
+        <item>Саат сайын</item>
+        <item>Ыңгайлаштыруу</item>
+    </string-array>
+</resources>

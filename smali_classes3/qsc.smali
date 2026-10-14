@@ -1,0 +1,5 @@
+.class public interface abstract Lqsc;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Lptx;

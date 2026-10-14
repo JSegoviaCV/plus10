@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 នាទី</item>
+        <item>30 នាទី</item>
+        <item>45 នាទី</item>
+        <item>60 នាទី</item>
+        <item>នៅពេលវីដេអូនេះចប់</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 នាទី</item>
+        <item>30 នាទី</item>
+        <item>45 នាទី</item>
+        <item>1 ម៉ោង</item>
+        <item>2 ម៉ោង</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>រាល់ 30 នាទីម្ដង</item>
+        <item>រាល់ 45 នាទីម្ដង</item>
+        <item>រាល់ 1 ម៉ោងម្ដង</item>
+        <item>ប្ដូរ​តាម​បំណង</item>
+    </string-array>
+</resources>

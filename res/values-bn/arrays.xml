@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>১৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>৪৫ মিনিট</item>
+        <item>৬০ মিনিট</item>
+        <item>এই ভিডিও শেষ হলে</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>১৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>৪৫ মিনিট</item>
+        <item>১ ঘণ্টা</item>
+        <item>২ ঘণ্টা</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>৩০ মিনিট অন্তর</item>
+        <item>৪৫ মিনিট অন্তর</item>
+        <item>১ ঘণ্টা অন্তর</item>
+        <item>কাস্টমাইজ করুন</item>
+    </string-array>
+</resources>

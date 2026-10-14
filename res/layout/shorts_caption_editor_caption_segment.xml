@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/captions_editor_editable_segment_container" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:textColor="@color/unfocused_text_color" android:layout_gravity="center" android:id="@id/caption_editor_editable_segment" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="@dimen/captions_segment_layout_height" android:hint="@string/input_type_text" android:inputType="textMultiLine" android:imeOptions="actionDone" android:textAlignment="center" android:autofillHints="" style="?ytTextAppearanceBody2a" />
+</LinearLayout>

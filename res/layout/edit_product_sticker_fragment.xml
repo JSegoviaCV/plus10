@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/edit_fragment_container" android:background="?ytOverlayBackgroundSolid" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <com.google.android.libraries.youtube.creation.common.ui.ShortsEditCoordinatorLayout android:id="@id/edit_video_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.google.android.libraries.youtube.creation.editor.ShortsPlayerViewContainer android:layout_gravity="center_horizontal" android:id="@id/shorts_edit_player_view_wrapper" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.google.android.libraries.youtube.common.ui.RoundedFrameLayout android:layout_gravity="center" android:id="@id/rounded_frame_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" yt:corners="16.0dip">
+                    <com.google.android.libraries.youtube.creation.editor.ShortsPlayerView android:id="@id/shorts_edit_player_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+                </com.google.android.libraries.youtube.common.ui.RoundedFrameLayout>
+                <include layout="@layout/sticker_trash_can" />
+            </com.google.android.libraries.youtube.creation.editor.ShortsPlayerViewContainer>
+            <FrameLayout android:layout_gravity="top" android:id="@id/shorts_edit_top_bar_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </com.google.android.libraries.youtube.creation.common.ui.ShortsEditCoordinatorLayout>
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="bottom|center" android:id="@id/shorts_edit_bottom_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginHorizontal="16.0dip" android:paddingVertical="12.0dip">
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?ytTextAppearanceBody2b" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/product_sticker_back_button" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="@dimen/product_sticker_edit_bottom_bar_button_height" android:maxLines="1" android:layout_weight="1.0" android:layout_marginEnd="@dimen/product_sticker_edit_bottom_bar_between_buttons_margin" />
+        <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?ytTextAppearanceBody2b" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/product_sticker_done_button" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="@dimen/product_sticker_edit_bottom_bar_button_height" android:maxLines="1" android:layout_weight="1.0" android:layout_marginStart="@dimen/product_sticker_edit_bottom_bar_between_buttons_margin" />
+    </LinearLayout>
+</LinearLayout>

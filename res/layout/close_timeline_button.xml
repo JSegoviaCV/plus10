@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.creation.common.ui.CreationButtonView android:layout_gravity="start|center|top" android:id="@id/close_timeline_button" android:layout_width="wrap_content" android:layout_height="wrap_content" yt:buttonContentDescription="Close timeline" yt:creationButtonLayout="shorts_camera" yt:iconDrawable="@drawable/yt_outline_arrow_left_white_24"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:yt="http://schemas.android.com/apk/res-auto" />

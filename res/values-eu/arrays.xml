@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>60 minutu</item>
+        <item>Bideo hau amaitzean</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minutu</item>
+        <item>30 minutu</item>
+        <item>45 minutu</item>
+        <item>1 ordu</item>
+        <item>2 ordu</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 minutuan behin</item>
+        <item>45 minutuan behin</item>
+        <item>Orduero</item>
+        <item>Pertsonalizatua</item>
+    </string-array>
+</resources>

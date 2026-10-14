@@ -1,0 +1,12 @@
+.class public final Lbenk;
+.super Laqgb;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Laqgb;-><init>()V
+
+    return-void
+.end method

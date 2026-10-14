@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 mínútur</item>
+        <item>30 mínútur</item>
+        <item>45 mínútur</item>
+        <item>60 mínútur</item>
+        <item>Þegar þetta vídeó er búið</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 mínútur</item>
+        <item>30 mínútur</item>
+        <item>45 mínútur</item>
+        <item>Eina klukkustund</item>
+        <item>tvær klukkustundir</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Á 30 mínútna fresti</item>
+        <item>Á 45 mínútna fresti</item>
+        <item>Á hverri klukkustund</item>
+        <item>Sérsníða</item>
+    </string-array>
+</resources>

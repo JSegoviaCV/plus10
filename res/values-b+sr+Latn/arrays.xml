@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>60 minuta</item>
+        <item>Kada se ovaj video završi</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>45 minuta</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Svakih 30 minuta</item>
+        <item>Svakih 45 minuta</item>
+        <item>Svaki sat</item>
+        <item>Prilagodi</item>
+    </string-array>
+</resources>

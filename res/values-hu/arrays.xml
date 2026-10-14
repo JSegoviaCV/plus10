@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>45 perc</item>
+        <item>60 perc</item>
+        <item>Amikor ez a videó véget ér</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>45 perc</item>
+        <item>1 óra</item>
+        <item>2 óra</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 percenként</item>
+        <item>45 percenként</item>
+        <item>Óránként</item>
+        <item>Személyre szabás</item>
+    </string-array>
+</resources>

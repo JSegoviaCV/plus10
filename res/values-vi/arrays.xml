@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>45 phút</item>
+        <item>60 phút</item>
+        <item>Khi video này kết thúc</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>45 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Mỗi 30 phút</item>
+        <item>Mỗi 45 phút</item>
+        <item>Mỗi giờ</item>
+        <item>Tuỳ chỉnh</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>Imizuzu eyi-15</item>
+        <item>Imizuzu engama-30</item>
+        <item>Imizuzu engama-45</item>
+        <item>Imizuzu engama-60</item>
+        <item>Uma le vidiyo iphela</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>Imizuzu eyi-15</item>
+        <item>Imizuzu engama-30</item>
+        <item>Imizuzu engama-45</item>
+        <item>kwehora eli-1</item>
+        <item>kwamahora ama-2</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Njalo emizuzwini engama-30</item>
+        <item>Njalo emizuzwini engama-45</item>
+        <item>Njalo ehoreni eli-1</item>
+        <item>Enza ngokwezifiso</item>
+    </string-array>
+</resources>

@@ -1,0 +1,172 @@
+.class public final Lbicj;
+.super Lbibz;
+
+
+# static fields
+.field private static final serialVersionUID:J = -0x2c7b410ef9b08afdL
+
+
+# instance fields
+.field private final b:I
+
+
+# direct methods
+.method public constructor <init>(Lbhzw;Lbhzy;)V
+    .locals 0
+
+    invoke-direct {p0, p1, p2}, Lbibz;-><init>(Lbhzw;Lbhzy;)V
+
+    const/16 p1, 0x64
+
+    iput p1, p0, Lbicj;->b:I
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final a(JJ)I
+    .locals 1
+
+    iget-object v0, p0, Lbibz;->a:Lbhzw;
+
+    invoke-virtual {v0, p1, p2, p3, p4}, Lbhzw;->a(JJ)I
+
+    move-result p1
+
+    div-int/lit8 p1, p1, 0x64
+
+    return p1
+.end method
+
+.method public final b(JI)J
+    .locals 4
+
+    int-to-long v0, p3
+
+    iget-object p3, p0, Lbibz;->a:Lbhzw;
+
+    const-wide/16 v2, 0x64
+
+    mul-long/2addr v0, v2
+
+    invoke-virtual {p3, p1, p2, v0, v1}, Lbhzw;->c(JJ)J
+
+    move-result-wide p1
+
+    return-wide p1
+.end method
+
+.method public final c(JJ)J
+    .locals 2
+
+    iget-object v0, p0, Lbibz;->a:Lbhzw;
+
+    const/16 v1, 0x64
+
+    invoke-static {p3, p4, v1}, Lbgza;->t(JI)J
+
+    move-result-wide p3
+
+    invoke-virtual {v0, p1, p2, p3, p4}, Lbhzw;->c(JJ)J
+
+    move-result-wide p1
+
+    return-wide p1
+.end method
+
+.method public final d(JJ)J
+    .locals 1
+
+    iget-object v0, p0, Lbibz;->a:Lbhzw;
+
+    invoke-virtual {v0, p1, p2, p3, p4}, Lbhzw;->d(JJ)J
+
+    move-result-wide p1
+
+    const-wide/16 p3, 0x64
+
+    div-long/2addr p1, p3
+
+    return-wide p1
+.end method
+
+.method public final e()J
+    .locals 4
+
+    iget-object v0, p0, Lbibz;->a:Lbhzw;
+
+    invoke-virtual {v0}, Lbhzw;->e()J
+
+    move-result-wide v0
+
+    const-wide/16 v2, 0x64
+
+    mul-long/2addr v0, v2
+
+    return-wide v0
+.end method
+
+.method public final equals(Ljava/lang/Object;)Z
+    .locals 4
+
+    const/4 v0, 0x1
+
+    if-ne p0, p1, :cond_0
+
+    return v0
+
+    :cond_0
+    instance-of v1, p1, Lbicj;
+
+    const/4 v2, 0x0
+
+    if-eqz v1, :cond_1
+
+    check-cast p1, Lbicj;
+
+    iget-object v1, p0, Lbibz;->a:Lbhzw;
+
+    iget-object v3, p1, Lbibz;->a:Lbhzw;
+
+    invoke-virtual {v1, v3}, Ljava/lang/Object;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    iget-object v1, p0, Lbibx;->d:Lbhzy;
+
+    iget-object v3, p1, Lbibx;->d:Lbhzy;
+
+    if-ne v1, v3, :cond_1
+
+    iget p1, p1, Lbicj;->b:I
+
+    return v0
+
+    :cond_1
+    return v2
+.end method
+
+.method public final hashCode()I
+    .locals 2
+
+    iget-object v0, p0, Lbibx;->d:Lbhzy;
+
+    invoke-virtual {v0}, Ljava/lang/Object;->hashCode()I
+
+    move-result v0
+
+    add-int/lit8 v0, v0, 0x64
+
+    iget-object v1, p0, Lbibz;->a:Lbhzw;
+
+    invoke-virtual {v1}, Ljava/lang/Object;->hashCode()I
+
+    move-result v1
+
+    add-int/2addr v0, v1
+
+    return v0
+.end method

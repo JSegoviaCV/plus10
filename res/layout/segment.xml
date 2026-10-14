@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.libraries.youtube.creation.timeline.ui.segment.SegmentView android:id="@id/wrap_segment_view" android:focusable="true" android:clipChildren="true" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.libraries.youtube.creation.timeline.ui.segment.SegmentBodyLayout android:id="@id/segment_background_touch_delegate" android:clipToPadding="true" android:layout_width="0.0dip" android:layout_height="0.0dip" app:backgroundColor="#ffffffff" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/segment_presentation_container" android:clipToPadding="true" android:layout_width="fill_parent" android:layout_height="fill_parent" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent">
+        <com.google.android.libraries.youtube.creation.timeline.ui.segment.SegmentBodyLayout android:enabled="false" android:gravity="center_vertical" android:id="@id/segment_view" android:focusable="false" android:clickable="false" android:layout_width="0.0dip" android:layout_height="fill_parent" app:layout_constraintLeft_toRightOf="@id/segment_handle_left_arrow_tall" app:layout_constraintRight_toLeftOf="@id/segment_handle_right_arrow_tall" />
+        <include layout="@layout/segment_handle_left_arrow_tall" />
+        <include layout="@layout/segment_handle_right_arrow_tall" />
+        <FrameLayout android:id="@id/segment_selected_overlay" android:visibility="gone" android:clipToPadding="true" android:layout_width="0.0dip" android:layout_height="0.0dip" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.libraries.youtube.creation.timeline.ui.segment.SegmentView>

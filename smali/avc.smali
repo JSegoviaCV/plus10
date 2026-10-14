@@ -1,0 +1,2 @@
+.class public interface abstract Lavc;
+.super Ljava/lang/Object;

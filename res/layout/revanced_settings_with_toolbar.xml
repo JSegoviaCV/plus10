@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:transitionGroup="true">
+        <FrameLayout android:id="@id/revanced_toolbar_parent" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" android:elevation="0.0dip">
+            <android.support.v7.widget.Toolbar android:id="@id/revanced_toolbar" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize" app:navigationIcon="@drawable/revanced_settings_toolbar_arrow_left" app:title="@string/revanced_settings_title" />
+            <FrameLayout android:layout_gravity="center_vertical" android:id="@id/revanced_search_view_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <android.widget.SearchView android:theme="@style/revanced_searchbar_cursor" android:layout_gravity="center_vertical" android:id="@id/revanced_search_view" android:padding="2.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:layout_marginBottom="6.0dip" android:iconifiedByDefault="false" android:layout_marginStart="56.0dip" android:layout_marginEnd="8.0dip" android:searchIcon="@null" android:queryBackground="@null" />
+            </FrameLayout>
+        </FrameLayout>
+        <FrameLayout android:id="@id/revanced_settings_fragments" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+</merge>

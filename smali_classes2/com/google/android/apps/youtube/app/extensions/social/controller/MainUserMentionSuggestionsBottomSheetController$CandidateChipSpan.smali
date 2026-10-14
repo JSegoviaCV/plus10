@@ -1,0 +1,19 @@
+.class public Lcom/google/android/apps/youtube/app/extensions/social/controller/MainUserMentionSuggestionsBottomSheetController$CandidateChipSpan;
+.super Landroid/text/Annotation;
+
+# interfaces
+.implements Landroid/text/NoCopySpan;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 2
+
+    const-string v0, "candidate-user-mention-span"
+
+    const-string v1, ""
+
+    invoke-direct {p0, v0, v1}, Landroid/text/Annotation;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+
+    return-void
+.end method

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:id="@id/editor_tool_button_icon" android:background="@drawable/reel_editor_tool_button_background" android:clickable="false" android:layout_width="@dimen/shorts_camera_compact_toolbar_button_size" android:layout_height="@dimen/shorts_camera_compact_toolbar_button_size" android:importantForAccessibility="no" />
+    <com.google.android.libraries.youtube.common.ui.YouTubeTextView android:textAppearance="?ytTextAppearanceBody2b" android:textColor="?ytOverlayTextPrimary" android:id="@id/editor_tool_button_label" android:paddingTop="@dimen/reel_edit_toolbar_button_text_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:textAlignment="center" />
+</LinearLayout>

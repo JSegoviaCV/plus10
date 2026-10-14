@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>60 minuto</item>
+        <item>Kapag natapos ang video na ito</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 oras</item>
+        <item>2 oras</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>Bawat 30 minuto</item>
+        <item>Bawat 45 minuto</item>
+        <item>Bawat 1 oras</item>
+        <item>I-customize</item>
+    </string-array>
+</resources>

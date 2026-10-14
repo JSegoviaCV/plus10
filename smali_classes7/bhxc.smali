@@ -1,0 +1,183 @@
+.class public final Lbhxc;
+.super Lbhuy;
+
+
+# static fields
+.field private static final q:Ljava/util/concurrent/atomic/AtomicLong;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 3
+
+    new-instance v0, Ljava/util/concurrent/atomic/AtomicLong;
+
+    const-wide/16 v1, 0x0
+
+    invoke-direct {v0, v1, v2}, Ljava/util/concurrent/atomic/AtomicLong;-><init>(J)V
+
+    sput-object v0, Lbhxc;->q:Ljava/util/concurrent/atomic/AtomicLong;
+
+    return-void
+.end method
+
+.method public constructor <init>(Landroid/content/Context;)V
+    .locals 1
+
+    sget-object v0, Lbhvd;->d:Lbhvd;
+
+    invoke-direct {p0, p1, v0}, Lbhuy;-><init>(Landroid/content/Context;Lbhvd;)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final bridge synthetic addPublicKeyPins(Ljava/lang/String;Ljava/util/Set;ZLjava/util/Date;)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    invoke-super {p0, p1, p2, p3, p4}, Lbhuy;->e(Ljava/lang/String;Ljava/util/Set;ZLjava/util/Date;)V
+
+    return-object p0
+.end method
+
+.method public final bridge synthetic addQuicHint(Ljava/lang/String;II)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    invoke-super {p0, p1, p2, p3}, Lbhuy;->f(Ljava/lang/String;II)V
+
+    return-object p0
+.end method
+
+.method public final build()Lorg/chromium/net/ExperimentalCronetEngine;
+    .locals 1
+
+    iget-object v0, p0, Lbhuy;->h:Ljava/lang/String;
+
+    if-nez v0, :cond_0
+
+    invoke-virtual {p0}, Lbhuy;->getDefaultUserAgent()Ljava/lang/String;
+
+    move-result-object v0
+
+    iput-object v0, p0, Lbhuy;->h:Ljava/lang/String;
+
+    :cond_0
+    new-instance v0, Lbhxb;
+
+    invoke-direct {v0, p0}, Lbhxb;-><init>(Lbhuy;)V
+
+    return-object v0
+.end method
+
+.method public final synthetic enableBrotli(Z)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-boolean p1, p0, Lbhuy;->l:Z
+
+    return-object p0
+.end method
+
+.method public final synthetic enableHttp2(Z)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-boolean p1, p0, Lbhuy;->k:Z
+
+    return-object p0
+.end method
+
+.method public final bridge synthetic enableHttpCache(IJ)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    invoke-super {p0, p1, p2, p3}, Lbhuy;->g(IJ)V
+
+    return-object p0
+.end method
+
+.method public final synthetic enableNetworkQualityEstimator(Z)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-boolean p1, p0, Lbhuy;->p:Z
+
+    return-object p0
+.end method
+
+.method public final synthetic enablePublicKeyPinningBypassForLocalTrustAnchors(Z)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-boolean p1, p0, Lbhuy;->g:Z
+
+    return-object p0
+.end method
+
+.method public final synthetic enableQuic(Z)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-boolean p1, p0, Lbhuy;->j:Z
+
+    return-object p0
+.end method
+
+.method public final bridge synthetic enableSdch(Z)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    return-object p0
+.end method
+
+.method protected final getLogCronetInitializationRef()J
+    .locals 5
+
+    sget-object v0, Lbhxc;->q:Ljava/util/concurrent/atomic/AtomicLong;
+
+    iget-object v1, p0, Lbhxc;->b:Lbhvg;
+
+    invoke-virtual {v1}, Lbhvg;->a()J
+
+    move-result-wide v1
+
+    const-wide/16 v3, 0x0
+
+    invoke-virtual {v0, v3, v4, v1, v2}, Ljava/util/concurrent/atomic/AtomicLong;->compareAndSet(JJ)Z
+
+    invoke-virtual {v0}, Ljava/util/concurrent/atomic/AtomicLong;->get()J
+
+    move-result-wide v0
+
+    return-wide v0
+.end method
+
+.method public final synthetic setExperimentalOptions(Ljava/lang/String;)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-object p1, p0, Lbhuy;->o:Ljava/lang/String;
+
+    return-object p0
+.end method
+
+.method public final bridge synthetic setLibraryLoader(Lorg/chromium/net/CronetEngine$Builder$LibraryLoader;)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    return-object p0
+.end method
+
+.method public final bridge synthetic setStoragePath(Ljava/lang/String;)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    invoke-super {p0, p1}, Lbhuy;->i(Ljava/lang/String;)V
+
+    return-object p0
+.end method
+
+.method public final bridge synthetic setThreadPriority(I)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    return-object p0
+.end method
+
+.method public final synthetic setUserAgent(Ljava/lang/String;)Lorg/chromium/net/ICronetEngineBuilder;
+    .locals 0
+
+    iput-object p1, p0, Lbhuy;->h:Ljava/lang/String;
+
+    return-object p0
+.end method

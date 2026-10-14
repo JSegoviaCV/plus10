@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>60 minuuttia</item>
+        <item>Kun video päättyy</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>15 minuuttia</item>
+        <item>30 minuuttia</item>
+        <item>45 minuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>30 minuutin välein</item>
+        <item>45 minuutin välein</item>
+        <item>Tunnin välein</item>
+        <item>Muokkaa</item>
+    </string-array>
+</resources>

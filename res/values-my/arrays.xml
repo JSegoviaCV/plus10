@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bedtime_reminder_bottom_sheet_radio_options_text_array">
+        <item>၁၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>၄၅ မိနစ်</item>
+        <item>၆၀ မိနစ်</item>
+        <item>ဤဗီဒီယို ပြီးဆုံးချိန်တွင်</item>
+    </string-array>
+    <string-array name="shorts_time_picker_radio_options_text_array">
+        <item>၁၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>၄၅ မိနစ်</item>
+        <item>၁ နာရီ</item>
+        <item>၂ နာရီ</item>
+    </string-array>
+    <string-array name="watch_break_bottom_sheet_radio_options_text_array">
+        <item>မိနစ် ၃၀ တိုင်း</item>
+        <item>၄၅ မိနစ်တိုင်း</item>
+        <item>၁ နာရီတိုင်း</item>
+        <item>စိတ်ကြိုက်ပြုလုပ်ရန်</item>
+    </string-array>
+</resources>
